@@ -1,0 +1,3309 @@
+var g = -20000;
+
+var k = 20000;
+
+var n = 2;
+
+var q = 900;
+
+var l = 0;
+
+var 2100a = 0;
+
+global lookup if Keygen.adg => "Macro 7" > 72{;
+
+| import Keygen.adg && Keygen.adg = 1;
+
+| var qio = 0;
+
+| var 1234a = 1;
+
+| var wheat bran = 1;
+
+| var josh = 0;
+
+| Save Keygen;
+
+};
+
+RENAME LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Elsywnn Forest\Stormwind City\ Stormwind;
+
+DUPLICATE Azeroth \Azeroth\Azeroth\;
+
+SYNC Azeroth X \Azeroth\Azeroth\;
+
+Global Device Off LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Misty Pine Refuge\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\;
+
+Global Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Coldridge Pass\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Hut\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Burbik's Supplies\;
+
+Global Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Burbik's Supplies\Table\;
+
+import Sliced Bread (1) && Rename Sliced Bread (1) AIR1 && Save AIR1;
+
+import AIR1 && Rename AIR1 AIR2;
+
+Save AIR2;
+
+import AIR1 && Rename AIR1 AIR3;
+
+Save AIR3;
+
+import AIR1 && Rename AIR1 AIR4;
+
+Save AIR4;
+
+import AIR1 && Rename AIR1 AIR5;
+
+Save AIR5;
+
+import AIR1 && Rename AIR1 AIR6;
+
+Save AIR6;
+
+import AIR1 && Rename AIR1 AIR7;
+
+Save AIR7;
+
+import AIR1 && Rename AIR1 AIR8;
+
+Save AIR8;
+
+import AIR1 && Rename AIR1 AIR9;
+
+Save AIR9;
+
+import AIR1 && Rename AIR1 AIR10;
+
+Save AIR10;
+
+import AIR1 && Rename AIR1 AIR11;
+
+Save AIR11;
+
+import AIR1 && Rename AIR1 AIR12;
+
+Save AIR12;
+
+import AIR1 && Rename AIR1 AIR13;
+
+Save AIR13;
+
+import AIR1 && Tag AIR1 AIR1 - AIR2A;
+
+import AIR2 && Tag AIR2 AIR2 - AIR1A;
+
+import AIR3 && Tag AIR3 AIR3 - AIR3A;
+
+import AIR4 && Tag AIR4 AIR4 - AIR5A;
+
+import AIR5 && Tag AIR5 AIR5 - AIR7A;
+
+import AIR6 && Tag AIR6 AIR6 - AIR1B;
+
+import AIR7 && Tag AIR7 AIR7 - AIR4A;
+
+import AIR8 && Tag AIR8 AIR8 - AIR6A;
+
+import AIR9 && Tag AIR9 AIR9 - AIR1D;
+
+import AIR10 && Tag AIR10 AIR10 - AIR1E;
+
+import AIR11 && Tag AIR11 AIR11 - AIR1C;
+
+import AIR12 && Tag AIR12 AIR12 - AIR2C;
+
+import AIR13 && Tag AIR13 AIR13 - AIR2B;
+
+DROP AIR2 - AIR1A LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Burbik's Supplies\Smuggling Compartment\Bottle Pipe.adg POST;
+
+DUPE-DROP AIR1 - 2A LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Empty Set Of Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 3.adg PRE;
+
+DUPE-DROP AIR2 - AIR1A > "Air1" Redcurrant 1.1.adg POST && Redcurrant 2.adg POST && Redcurrant 3.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Maeva's Mystical Apparel\;
+
+CD Go Upstairs;
+
+DROP AIR2 - AIR1A - Air2 Wooden Chair (1).adg PRE;
+
+DROP AIR3 Wooden Chair (1) POST;
+
+DUPE-DROP AIR3 - AIR3A > "Air 1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Set of Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 3.adg PRE;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Maeva's Mystical Apparel\Go Upstairs\;
+
+DROP AIR4 - AIR 5A Wooden Chair (2) PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\The Stonefire Tavern\;
+
+CD Da Bar\Up Smuggler\Left && DROP AIR4 - AIR5A - AIR1 Fine Wine - Copy.adg PRE && DROP AIR6 - AIR1B Fine Wine POST;
+
+DROP AIR5 - 7A Fine Wine - Copy PRE && Fine Wine - Copy = 1,7;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Jarven's House\;
+
+DROP AIR5 - 7A - AIR1 Lantern PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Barleybrew's Pub\;
+
+CD The Beer Bar\Right Smuggler;
+
+DROP AIR6 - AIR1B - AIR1 Fine Wine - Copy (2) PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+zipy-import Jah;
+
+DROP AIR7 - AIR4A Redcurrant 1.1.adg POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\;
+
+zipy-import Jah;
+
+DROP AIR7 - AIR4A > "AIR1" Redcurrant 1.1.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Cask 'n' Anvil\;
+
+CD Stonefire Grill Table;
+
+DUPE-DROP AIR8 - AIR6A > "Air1" Chair (1).adg PRE && Chair (2).adg PRE && Chair (3).adg PRE && Chair (4).adg PRE;
+
+DROP AIR8 - AIR6A LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Barleybrew's Pub\The Beer Bar\Right Smuggler\Fine Wine - Copy.adg PRE;
+
+DROP AIR9 - AIR1D LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Barleybrew's Pub\The Beer Bar\Right Smuggler\Fine Wine - Copy.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\The Bronze Kettle\ && CD Go Downstairs\Smuggling COMPARTMENT && DROP AIR8 - 1D Sliced Bread (1) PRE;
+
+Tag Sliced Bread (1) Unitary Bread;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Longberry's Reagents\;
+
+DROP Sliced Bread (1) - Unitary Bread - AIR1 Fine Wine - Copy.adg PRE;
+
+DROP AIR11 Fine Wine.adg PRE;
+
+DROP AIR10 - AIR1E Fine Wine - Copy POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Fizzlespinner's General Goods\;
+
+CD Table;
+
+DROP AIR10 - AIR1E > "AIR1" Redcurrant 2.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Johnson and Johnson\;
+
+DROP AIR11 - AIR1C Dwarven High Back Chair.adg - Copy PRE;
+
+DROP AIR12 - AIR1F Dwarven High Back Chair.adg PRE;
+
+DROP AIR12 - AIR2C Dwarven High Back Chair.adg POST;
+
+DROP AIR13 - AIR2B Dwarven High Back Chair - Copy POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Sarah Karmoody's House\;
+
+CD Downstairs\Blunderbuss Rack\;
+
+DUPE-DROP AIR11 - AIR1C > "AIR1" Redcurrant 1.adg && Redcurrant 2.adg;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Talvash's House\;
+
+CD Smuggling Compartment && DROP AIR13 - AIR2B Fine Wine - Copy PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Zanis' House\;
+
+CD Go Downstairs\Food Table\;
+
+Tag Sliced Bread (1) My Bread;
+
+Tag Sliced Bread (2) The Bread;
+
+CD UP;
+
+DROP The Bread Blunderbuss (1) PRE;
+
+DROP The Bread > "AIR3" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Talvash's House\Smuggling Compartment\Fine Wine - Copy POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Zanis' House\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\To the Great Forge\Bong Room && NULLIFY TARGETING 0S;
+
+CD UP;
+
+CD To the Great Forge;
+
+CD Bong Room;
+
+CD Table;
+
+DROP My Bread Medical Flagon PRE;
+
+DROP My Bread > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Talvash's House\Smuggling Compartment\Fine Wine - Copy (4).adg;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\To the Great Forge\Bong Room\To Downstairs\;
+
+CD End Table;
+
+Tag Sliced Bread Das Bred;
+
+CD UP;
+
+CD Smuggling Rack;
+
+DROP Das Bred > "Air1" Fine Wine.adg;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\To the Great Forge\Resting Room\;
+
+DROP Das Bred \Table\Flagon.adg PRE;
+
+Tag Sliced Bread The Breado;
+
+DROP The Breado Flagon.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Barim's Reagent Shoppe\;
+
+DUPE-DROP The Breado > "Air2" \Go Upstairs\Farther Upstairs\Lantern - Copy.adg && Lantern.adg;
+
+CD UP UP UP && Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Flinthammers Armor\;
+
+DROP The Breado - Air2 \Upstairs\Go Upstairs\Lantern\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Flinthammer's Home\;
+
+CD Half Blunderbuss Rack
+
+DUPE-DROP The Breado > "Air3" Redcurrant 1.1 PRE && Redcurrant 1.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Ironforge Visitor's Center\;
+
+CD \Go Downstairs\Side Table\;
+
+Tag Sliced Bread My Edibles;
+
+DUPE-DROP My Edibles - Air1 Fine Wine.adg PRE && LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Flinthammers Armor\Upstairs\Go Upstairs\Lantern POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Ironforge Visitor's Center\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Larkin Thunderbrew's House\;
+
+CD Blunderbuss Rack (2.3) && DROP My Edibles Short Blunderbuss.adg PRE;
+
+CD UP && Table;
+
+Tag Sliced Bread My Breadd;
+
+DROP My Breadd UP && Blunderbuss Rack (2.3) Short Blunderbuss.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Masonry Headquarters\;
+
+CD Go Downstairs;
+
+DROP My Breadd > "Air1" Lantern.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Pella's Barbershop\;
+
+DROP My Bredd > "Air3" Dwarven Highback Chair.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Pella's House\;
+
+CD \Go Upstairs\Table && Tag Sliced Bread My Breading;
+
+CD UP && CD Smuggling Compartment && DROP My Breading Bottle Pipe.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Steelfury Weapon Shop\;
+
+CD Blunderbuss DUPE-DROP My Breading > "Air2" Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 3.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Vault Of Ironforge\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Auction House\;
+
+DUPE-DROP My Breading > "Air3" Cutoff Blunderbuss Rack\Micro D.adg PRE && Micro A.adg PRE && Mid SR PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Craghelm's House\;
+
+CD Table;
+
+Tag Sliced Bread Our Bread!;
+
+CD UP && CD Blunderbuss Table;
+
+DROP Our Bread! Redcurrant 2.adg PRE;
+
+DROP OUR BREAD > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Pella's House\Smuggling Compartment\Dwarven Highback Chair.adg POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Craghelm's House\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Craghelm's Plate and Chain\;
+
+CD \Go Upstairs\Blunderbuss Table\ && DROP Our Bread! > "Air2" Blunderbuss PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Goldfury's Hunting Supplies\;
+
+DUPE-DROP Our Bread! > "Air3" Rack Of Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 1.adg PRE && Redcurrant 2.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Hall of Arms\;
+
+DUPE-DROP The Bread > "Air1" \Left Short Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 1.adg PRE && Redcurrant 2.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Timberline Arms\;
+
+DROP The Bread > "AIR2" \Cutoff Blunderbuss Rack\Micro D.adg PRE && Micro A.adg PRE && Mid SR.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\To the Great Forge\Supply Room\;
+
+CD \Go Downstairs\Back Table\ && Tag Sliced Bread (1) Woot Bread && Tag Sliced Bread (2) Whose Bread;
+
+CD UP && CD Table;
+
+Drop Woot Bread Flagon.adg PRE;
+
+DUPE-DROP Woot Bread > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Hall of Arms\Left Short Blunderbuss\Redcurrant 1.1.adg POST;
+
+DUPE-DROP Woot Bread > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Hall of Arms\Left Short Blunderbuss\Redcurrant 1 POST;
+
+DUPE-DROP Woot Bread > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Hall of Arms\Left Short Blunderbuss\Redcurrant 2 POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\To the Great Forge\Supply Room\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Deathklok House\;
+
+DUPE-DROP Whose Bread > "Air1" Blunderbuss (1).adg PRE && Blunderbuss (2).adg PRE && Blunderbuss (3).adg PRE;
+
+DUPE-DROP Whose Bread LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Timberline Arms\Cutoff Blunderbuss Rack\Micro D.adg POST && Micro A.adg POST
+
+DUPE-DROP Whose Bread LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Timberline Arms\Cutoff Blunderbuss Rack\Mid SR.adg POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Deathklok House\Table\;
+
+Tag Cut Bread Best Bread;
+
+CD UP && DUPE-DROP Best Bread Blunderbuss (1).adg POST && Blunderbuss (2).adg POST && Blunderbuss (3).adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Deepmountain Mining And Jewelcrafting\;
+
+CD \Go Downstairs\Globe Table && DROP Best Bread > "Air1" Dwarven High Back Chair.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Finespindle's Leather Goods\;
+
+DUPE-DROP Best Bread > "Air2 \Go Downstairs\Table\Blunderbuss Rack\Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 1.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Haberdashers'\;
+
+DROP Best Bread > "Air3" Lantern - Copy (2) - Copy.adg PRE;
+
+Device On C:\Users\feyde\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Ironforge Physician\;
+
+CD Go Upstairs && DROP Whose Bread > "Air2" Fine Wine.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Jobi Beatnik's House\;
+
+CD Empty Blunderbuss Rack && DUPE-DROP Whose Bread > "Air3" Redcurrant 1.adg && Redcurrant 2.adg;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Seer Davay's (David's) Seer Shoppe\;
+
+DUPE-DROP Das Bred > "Air2" Lantern - Copy - Copy.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Stonebrow's Clothier\;
+
+DROP Das Bred > "Air3" Lantern - Copy - Copy - Copy PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\The High Seat\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Thistlefuzz Arcanery\;
+
+DUPE-DROP AIR11 - AIR1C > "Air2" > Lantern - Copy - Copy;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Reagulus' House\;
+
+CD Wheelbarow;
+
+DUPE-DROP AIR1 - AIR2A - "Air3" Mid SR.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\The Library\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fishing Clan\;
+
+CD Go Downstairs;
+
+CD Table;
+
+DUPE-DROP AIR2 - AIR1A > "Air3" Medical Flagon.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Lil Arby's House\;
+
+DUPE-DROP AIR4 - AIR5A > "Air3" Wooden Chair.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Mad Hatter's Painting\;
+
+DUPE-DROP AIR5 - AIR7A > "Air3" Lantern.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Stoneblade's\;
+
+CD \Go Downstairs\Side Table 2\ && DROP AIR6 - AIR1B Blunderbuss.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Traveling Fisherman;
+
+DUPE-DROP AIR6 - AIR1B > "Air3" Lantern - Copy.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Tynus Venomsprout's House\;
+
+DUPE-DROP AIR7 - AIR4A > "Air3" Lantern - Copy.adg PRE;
+
+CD \Go Downstairs\Smuggling Compartment\;
+
+Tag Freshly Baked Bread Ice Cold Milk;
+
+CD UP;
+
+DROP Ice Cold Milk > "Air1" Lantern - Copy.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Tinker Town\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Bingy Featherwhistle's Camp;
+
+CD Baldwin Mountain House && CD Entrance && CD Blunderbuss Rack && DUPE-DROP Ice Cold Milk > "Air2" Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 1.adg PRE;
+
+CD UP && CD UP && CD UP && CD UP && CD Beldin's Dacha;
+
+CD Entrance && CD Hidden Blunderbuss && DROP Ice Cold Milk Redcurrant 2.adg;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Leper Gnome Experiments;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Leper Gnome Experiments\Inside, Puppy\Second Smuggler && DROP AIR8 - AIR6A > "Air3" Fine Wine.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Coldridge Pass\Coldridge Valley\Anvilmar;
+
+DUPE-DROP AIR8 - AIR6A > "Air3" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Coldridge Pass\Coldridge Valley\Anvilmar\Go Left\Set of Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 1.adg PRE;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Side Table && Tag Unsliced Bread Sliced Bread (3);
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room;
+
+CD Cooking Room && CD Downstairs && CD Go Downstairs && CD Go to the Right && CD Eating Table;
+
+DROP Nathan's Sliced Bread > "Air1" Lantern POST;
+
+Tag Nathan's Sliced Bread Dave's Killer Bread;
+
+CD UP && CD Smuggling Compartment;
+
+Tag Nathan's Sliced Bread Roti Chapati;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Reagulus' House\Wheelbarow\;
+
+DROP Roti Chapati Mid SR.adg PRE && DROP Dave's Killer Bread Mid SR POST;
+
+CD UP && CD UP;
+
+CD \Fredricc's House\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+advanced-pack-import North Hover Center;
+
+global Fine Wine.adg = 1;
+
+if Fine Wine.adg => "Display" => "Output1" > 72{;
+
+| lookup if IronforgeGuard => "Macro7" > 72{;
+
+| | import IronforgeGuard;
+
+| | IronforgeGuard = 1;
+
+| | save IronforgeGuard;
+
+| if IronforgeGuard => "Macro3" > 72{;
+
+| | Questlog.adg = "One,Two,Three,Four";
+
+| };
+
+};
+
+global Fine Wine.adg = 1;
+
+if Lantern.adg => "Display" => "Output7" > 72{
+
+| if QuestC2 > 72{
+
+| | guild.println("Wolves!!!");
+
+| };
+
+};
+
+CD C:\;
+
+zipy-import Bolt of Mageweave.zip LOCAL:\Map of Azeroth\Azeroth;
+
+var a = 1;
+
+var b = 2;
+
+if MIDICC7 > 72;
+
+| b = 3;
+
+};
+
+if MIDICC3 > 72{;
+
+| b = 2;
+
+};
+
+for 1 in b{;
+
+| Tag Extender (|a|) AiR (|a|);
+
+| a += 1;
+
+};
+
+a = 1;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+advanced-pack-import North Hover Center;
+
+Questlog = 1,2;
+
+global Teegeli Merowitz.adg = 1;
+
+lazy global ending if Teegeli Merowitz.adg => "Macro 3" > 72
+
+| if Questlog.adg => "QuestC1" > 72{
+
+| | DROP Dave's Killer Bread > "Air1" UP && \Reagulus' House\Wheelbarow\Mid SR.adg POST;
+
+| | CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Cooking Room\Downstairs\Go Downstairs\Go to the Right\;
+
+| | Lantern.adg = 6;
+
+| | CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Reagalus' House\;
+
+| | if Mid SR => "Display" => Output6 || Output7 > 72{;
+
+| | | Questlog.adg = 3,4 && Teegeli Merowitz.adg = 2;
+
+| | };
+
+| | if Teegeli Merotwitz = Macro 4 > 72{;
+
+| | | if Mid SR => "Display" => Output6 || Output7 > 72{;
+
+| | | | Actionsys.adg = 1,2 && Teegeli Merowitz.adg = 2;
+
+| | | }
+
+| | }
+
+| }
+
+| CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Cooking Room\Downstairs\Go Downstairs\Go to the Right\;
+
+| Lantern.adg = 6;
+
+| CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+}
+
+global Teegeli Merowitz.adg = 1;
+
+if Questlog.adg => "QuestC1" > 72{;
+
+| print("Botquest complete!");
+
+};
+
+if Questlog.adg => "QuestC2" > 72{;
+
+| print("Userquest complete!");
+
+};
+
+EXIT North Hover Center LOCAL:\Users\Public\Desktop;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Kharanos;
+
+CD Thunderbrew Distillery;
+
+CD Main Room;
+
+Wooden Seat.adg = 1 && Wooden Seat.adg = 1;
+
+CD Beer Table;
+
+Tag Triple Sliced Bread Simpsons Gummy-Burger Candy;
+
+CD LOCAL:\Users\Public\Fredricc|orange|;
+
+global-zipy-import Fredricc.zip;
+
+DROP Simpsons Gummy-Burger Candy > "Air3" C:\Users\Fredricc|orange|\Mage\Level 9\-\Slow Fall\AiR (52).adg PRE;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Beer Table && CD UP;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\;
+
+CD \The Bar\;
+
+CD \Smuggling Compartment\Top\;
+
+DROP Simpsons-Gummy-Burger Candy > "Air2" 40 Proof Vodka.adg POST;
+
+DUPE-DROP 40 Proof Vodka.adg NEW AUDIO && Mutefsb.adv PRE;
+
+CD \Smuggling Compartment\ && CD UP;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\;
+
+DROP AiR (2) > "Air3" \The Bar\Z-Flagon of Tea Extract.adg POST;
+
+KEYBIND|4| = Z-Flagon of Tea Extract.adg = 4;
+
+CD UP;
+
+DROP AiR (2) \Side Table\Sliced Bread (3).adg PRE;
+
+CD UP;
+
+CD \Cooking Room\Downstairs\Go Downstairs\Go to the Right\ && DROP Sliced Bread (3) > "Air2" Dave's Killer Bread.adg PRE;
+
+CD UP && CD UP && CD UP && CD UP && CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room;
+
+CD LOCAL:\Users\Public\Fredricc|orange|\Mage\Level 9\-\Slow Fall\ && Tag AiR (49) AiR (49);
+
+CD C:\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Barim's Reagent Shoppe\ && DROP AiR (49) Gourd.adg POST;
+
+MIDICC6 == "Gourd.adg => "CHAIN1" = "Chain Volume" && MAP MIDICC6 = "0dB/-infdB";
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Smuggling Compartment\Top\ && Drop AiR (49) > "Air1" 40 Proof Vodka.adg PRE;
+
+global-IMPORT-DROP Renewer 40 Proof Vodka.adg => "One Time Use" POST && PRE;
+
+MIDICC6 == "40 Proof Vodka" => "Renewer" = 1;
+
+CD UP && CD UP;
+
+CD UP && CD UP && import Crafting;Mail && DUPE-RENAME Crafting;Mail Crafting Mail 2 && Crafting;Mail = 1 && ~/3BIT_BYTE_2X_SVNLS_1GP_80SP_~ && CD Thunderbrew Distillery && CD Main Room;
+
+~/Nibblers_PC_EF_DRAIN_WALLET_1GP_87CP_+_13CP TO Kreg Bilmn_~;
+
+SELL-TO Kreg Bilmn TUNKS TRUNK && EMPTIED FIRST AID KIT && STANDARD ISSUE KNAPSACK && TORGOK'S REAGENT KIT;
+
+BUY STANDARD LEATHER POUCH && BUY STANDARD LEATHER POUCH && BUY STANDARD LEATHER POUCH && BUY STANDARD LEATHER POUCH;
+
+SELL EXPEDITIONARY CLOTH SET Kreg Bilmn && DOFF Monk Robe LESS Bent Staff;
+
+GLOBAL Freshly Baked Bread (3) Standard Leather Pouch (1);
+
+GLOBAL Tough Hunk of Bread (5) Standard Leather Pouch (2);
+
+GLOBAL Simple Flour (5) Standard Leather Pouch (3);
+
+GLOBAL Mild Spices (5) Standard Leather Pouch (4);
+
+GLOBAL Hearthstone Backpack (Unsecured);
+
+~/outfit Gnomish Leeroy Jenkins (General Store) 6566,9636,0,45115,16074,103345,111637,95719,5116,29765,3440,86739,0,0,0,0,0~;
+
+~/outfit Jarlan 146479,60747,0,45115,2444,3669,111637,180151,5343,13795,31565,7249,0,0,0,0,0~;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\Go Upstairs\Table\ && Wooden Chair (1) = 1 && Wooden Chair (1) = 1;
+
+Tag Sliced Bread Jarlan's Breadd;
+
+MIDICC15 == "Fine Wine" = 1;
+
+DROP Jarlan's Breadd > "Air1" Fine Wine POST;
+
+CD UP && CD UP && CD Smuggling Bay;
+
+Tag Sliced Bread (1) Posting Bread && Tag Sliced Bread (2) My Breaddo;
+
+DROP Jarlan's Breadd XX Vodka.adg PRE && global-import-drop Renewer One Time Use PRE & POST && MIDICC16 == "Renewer" => "Renew" = 1 && DROP Posting Bread XX Vodka.adg POST;"
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Reagulus' House\Wheelbarow && DROP Posting Bread > "Air1" Mid SR.adg PRE;
+
+CD UP && CD UP && CD Fredricc's House;
+
+CD Smuggling Compartment && DROP My Breaddo > "Air1" Fine Wine (2) POST && MIDICC17 == "Fine Wine (3)" = 1 && CD UP && CD \Go Upstairs\Table\ && DROP My Breaddo Fine Wine PRE;
+
+CD UP && CD UP && advanced-pack-import North Hover Center.alp;
+
+global Magis Sparkmantle.adg = 1;
+
+Save Magis Sparkmantle.adg;
+
+lookup if Magis Sparkmantle.adg => "Macro 3" > 72{;
+
+| Magis Sparkmantle.adg = 2 && println("Rrooaarr.");
+
+| Realtree.adg = 1,2;
+
+| if Realtree => "QuestC1" > 72{;
+
+| | print(Roar counter at half on.);
+
+| };
+
+| Magis Sparkmantle = 1,2;
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Cooking Room\Downstairs\Go Downstairs\Go to the Forward\ && ~/sit~;
+
+pack-import Red Currant First Edition Single Block Computer Guide C:\Adventure Time\;
+
+Device Off Redcurrant 1 && Device Off Tommy B && Device Off IntegerItem && Device Off Mini3dSnd && Device Off Lock && Device Off Frisky Breki && Device On Redcurrant 1;
+
+DROP Jarlan's Breadd > "Air3" Redcurrant1.adg => "5V Networking" => "Grunt Key" POST;
+
+MIDICC23 == "Grunt Key" = 1;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && advanced-zipy-import Charred Wolf Meat LOCAL:\Fredricc\ && Beer Braised Ribs.adg => "Calories" = 1,2;
+
+if Beer Braised Ribs.adg => "Calories" => "Blood Elf" > 72{;
+
+| EXIT TO LOCAL:\Fredricc\ && advanced-zipy-import Charred Wolf Meat LOCAL:\Fredricc\Inventory\ && Beer Braised Ribs.adg => "Calories" = 1;
+
+};
+
+if Beer Braised Ribs.adg => "Calories" => "Gnomeragan Gnome" > 72{;
+
+| print("Calories Aqquired");
+
+};
+
+Tag Spice Bread Mye Bread && CD LOCAL:\Fredricc\ && Tag Spice Bread My Seconds;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\;
+
+CD LOCAL:\Users\Public\ && advanced-zipy-import Carriage "Heavy Brown Bag" Standard Pouch.zip;
+
+for 1 in 7{;
+
+| if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display8" < 72{;
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display7" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 8;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display6" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 7;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display5" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 6;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display4" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 5;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display3" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 4;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display2" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 3;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display1" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 2;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display8" < 72 && "Display7" < 72 && "Display6" < 72 && "Display5" < 72{;
+
+| | | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display4" < 72 && "Display3" < 72 && "Display2" < 72 && "Display1" < 72{;
+
+| | | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 1;
+
+| | | };
+
+| | };
+
+| };
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP;
+
+CD Azeroth|orange|\Azeroth\Eastern Kingdoms && CD Dun Morogh && CD Kharanos && CD Thunderbrew Distillery && CD Main Room && CD LOCAL:\Fredricc\;
+
+DROP Mye Bread Charred Wolf Meat POST;
+
+DROP Mye Bread > "Air1" Roasted Boar Meat POST;
+
+MIDIKEY1 => _00 Holy Communion __ 01 Bread of Dave's Killer _ 02 Alternate Item __.adv => "Frequency" => "Low";
+
+MIDIKEY2 => __ 00 Hot Cocoa __ 01 Dry Milk __ 02 Spices(Sugar,Spices)_ 03 Sugar __.adv => "Frequency" => "Last";
+
+DROP JSON Weather Roasted Boar Meat PRE && MIDICC24 == "Wind" = 0-127 && DROP JSON Weather Charred Wolf Meat PRE && MIDICC24 == "Wind" = 0-127;
+
+CD global-zipy-import Turp's Quest Builder Utility.zip LOCAL:\Fredricc\ && CD LOCAL:\Fredricc\;
+
+CD Turp's Quest Builder Utility && CD Advanced Quest && advanced-zipy-import Gnomish Optional Quest;
+
+if RareDuope2.adg => "Output8" < 72{;
+
+| if RareDuope2.adg => "Output7" < 72{;
+
+| | RareDuope2.adg = 00x001;
+
+| };
+
+| if RareDuope2.adg => "Output6" < 72{;
+
+| | RareDuope2.adg = 0x010;
+
+| };
+
+| if RareDuope2.adg => "Output5" < 72{;
+
+| | RareDuope2.adg = 0x001;
+
+| };
+
+| if RareDuope2.adg => "Output4" < 72{;
+
+| | RareDuope2.adg = 00x001 && 0x001 && 00x010 && 0x100;
+
+| };
+
+| if RareDuope2.adg => "Output3" < 72{;
+
+| | RareDuope2.adg = 00x001;
+
+| };
+
+| if RareDuope2.adg => "Output2" < 72{;
+
+| | RareDuope2.adg = 00x001 && 0x010;
+
+| };
+
+| if RareDuope2.adg => "Output1" < 72{;
+
+| | RareDuope2.adg = 00x001;
+
+| };
+
+| if RareDuope2.adg => "Output1" < 72 && "Output2" < 72 && "Output3" < 72 && "Output4" < 72 && "Output5" < 72 && "Output6" < 72 && "Output7" < 72 && "Output8" < 72{;
+
+| | RareDuope2.adg = 0x001;
+
+| };
+
+};
+
+if RareDuope2.adg => "Output8" > 72{;
+
+| RareDuope2.adg = 0x100 && 0x010 && 0x001 & 00x001;
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Thunderbrew Distillery\Main Room\;
+
+CD LOCAL:\Map of Azeroth\ && advanced-import Metallic Pearlescent;
+
+UPGRADE CHAIN2 => "Shiftry1" => "Frequency Shifter 2" && UPGRADE CHAIN2 => "Shiftry2" => "Frequency Shifter 2";
+
+AUDIO EFFECT RACK PRE;
+
+for 1 in 2073600{;
+
+| if MIDICC17 > 72{;
+
+| | l = 2100;
+
+| | q = 900;
+
+| };
+
+| if MIDICC18 > 72{;
+
+| | l = 2400;
+
+| | q = 1900;
+
+| };
+
+| if MIDICC19 > 72{;
+
+| | l = 2700;
+
+| | q = 2900;
+
+| };
+
+| if MIDICC20 > 72{;
+
+| | l = 3000;
+
+| | q = 3900;
+
+| };
+
+| 2100a = l;
+
+| DUPE CHAIN|n| && "Frequency Shifter" => "Shiftry1" = "|g|HZ" && "Frequency Shifter" => "Shiftry2" = "|k|HZ";
+
+| DROP Auto Filter Audio Effect Rack CHAIN|n-1| && RENAME Auto Filter Filter|n-1| && "Auto Filter" => "FREQUENCY" = |k+|2100a||HZ && RESONANCE MACRO 1;
+
+| DROP Auto Filter Audio Effect Rack CHAIN|n-1| && RENAME Auto Filter Filter|n| && "Auto Filter" => "FREQUENCY" = |k+|2100a|-1800|HZ && RESONANCE MACRO 1;
+
+| DROP Auto Filter Audio Effect Rack CHAIN|n-1| && RENAME Auto Filter Filter|n+1| && "Auto Filter" => "FREQUENCY" = |k+|2100a|+|q||HZ && RESONANCE MACRO 1 && DROP JSON WEATHER CHAIN|n-1| PRE && WIND MACRO 1;
+
+| g += -5000;
+
+| n += 1;
+
+| k += 5000;
+
+};
+
+g = -20000;
+
+k = 20000;
+
+n = 2;
+
+MIDICC21 == "Audio Effect Rack" => "Macro 1" = 0-127 && RENAME Audio Effect Rack The Racks && Rename The Racks ALL_CHAINS Chainz of Two;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP && CD Azeroth|orange|\Azeroth\Eastern Kingdoms && CD Dun Morogh && CD Thunderbrew Distillery && CD Main Room;
+
+CD UP && CD UP && CD UP && CD UP && CD Fredricc|orange| && CD \Mage\Level 9\Inventory\Wallet\Intellect\;
+
+lookup if Keygen3.adg => "Macro 7" > 72{;
+
+| import Keygen3.adg C:\Display\Debugger1\;
+
+};
+
+SAMPLERATE = 82944000000;
+
+if Keygen3.adg => "Macro 7" > 72{;
+
+| print("First startup.");
+
+};
+
+if Keygen3.adg => "Macro 7" > 72{;
+
+| var displaydir = 0;
+
+| Keygen3.adg = 1,2 && Save Keygen3.adg LOCAL:\Display\Debugger1|\;
+
+displaydir += 1;
+
+if Keygen3.adg => "Macro 4" > 72{;
+
+| var 1a = 1;
+
+| var 2b = 0;
+
+| pack-import Keybind2.adg C:\Display\Debugger|displaydir|\;
+
+| Save Keygen3.adg C:\Display\Debugger|displaydir|\;
+
+};
+
+DG1 => CHAIN4 => "Auto Filter" => "Frequency" = "10000HZ";
+
+DG1 => CHAIN5 => "Auto Filter" => "Frequency" = "13500HZ";
+
+DG1 => CHAIN7 => "Auto Filter" => "Frequency" = "17000HZ";
+
+GROUP KeybindA;
+
+for 1 in 2073600{;
+
+| DUPE CHAIN |1a| && DROP FREQENCY SHIFTER PRE => "Frequency" = "-10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" = "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE;
+
+| for 1 in 1a{;
+
+| | "Frequency" = "10000HZ" && DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b+2| PRE && "Frequency" = "300HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "650HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "1200HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "13500HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "4100HZ";
+
+| for 1 in 1a{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "17000HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "6100HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 1a += 1;
+
+};
+
+1a = 1;
+
+DROP JSON WEATHER Audio Effect Rack PRE;
+
+MIDICC23 == "Audio Effect Rack" => "Macro 3" = 0-127 && JSON WEATHER => "Wind" = 0-127;
+
+RENAME Audio Effect Rack DebugDisplayerm
+
+lookup if Keygen4.adg => "Macro 7" > 72{
+
+| print("First startup.");
+
+};
+
+if Keygen4.adg => "Macro 7" > 72{;
+
+| var displaydir1 = 0;
+
+| Keygen4.adg = 1,2 && Save Keygen4.adg LOCAL:\Display\Debugger1|\;
+
+displaydir1 += 1;
+
+if Keygen4.adg => "Macro 4" > 72{;
+
+| pack-import Keygen4.adg LOCAL:\Display\Debugger|displaydir1||displaydir1|\;
+
+| Save Keygen4.adg LOCAL:\Display\Debugger|displaydir||displaydir1\;
+
+};
+
+DG1 => CHAIN4 => "EQ8" => "Frequency" = "10000HZ";
+
+DG1 => CHAIN5 => "EQ8" => "Frequency" = "13500HZ";
+
+DG1 => CHAIN7 => "EQ8" => "Frequency" = "17000HZ";
+
+DG_LAST => "Display" => CHAIN4 => "Auto Filter" = "10000HZ";
+
+DG_LAST => "Display" => CHAIN5 => "Auto Filter" = "13500HZ";
+
+DG_LAST => "Display" => CHAIN7 => "Auto Filter" = "17000HZ";
+
+GROUP KeybindA;
+
+var 1a1 = 1;
+
+var 2b1 = 0;
+
+for 1 in 2073600{;
+
+| DUPE CHAIN |1a1| && DROP FREQENCY SHIFTER PRE => "Frequency" = "-10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" = "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE;
+
+| for 1 in 1a1{;
+
+| "Frequency" = "10000HZ" && DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE && "Frequency" = "300HZ";
+
+| for 1 in 1a1{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE && "Frequency" = "650HZ";
+
+| for 1 in 1a1{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE && "Frequency" = "1200HZ";
+
+| for 1 in 1a{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE && "Frequency" = "13500HZ";
+
+| for 1 in 1a{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "4100HZ";
+
+| for 1 in 1a1{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "17000HZ";
+
+| for 1 in 1a1{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "6100HZ";
+
+| for 1 in 1a1{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 1a1 += 1;
+
+};
+
+1a = 1;
+
+DROP Json Weather Audio Effect Rack PRE && GROUP Json Weather && MAP Wind Macro 1;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Elsywnn Forest\Stormwind\Trade District\Trias' Cheese\ && advanced-zipy-import Candelabra.zip LOCAL:\Fredricc\AiR\;
+
+var abcs = 1;
+
+for 1 in 168{;
+
+| Tag PiXL (|abcs|) AiR123 (|abcs|);
+
+| abcs += 1;
+
+};
+
+abcs = 1;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP;
+
+CD Azeroth|orange| && CD Azeroth && CD Eastern Kingdoms & CD Elswynn Forest && CD Stormwind && CD Trade District && CD Secret Shop && CD Go Upstairs && CD Go To The Forward && LOCATE BED && /sit && WAIT 15MIN && /away && WAIT 15MIN;
+
+/away;
+
+CD UP && CD UP && CD Table1 && DROP AiR123 (1) Wooden Chair (7).adg POST;
+
+CD UP && CD UP && CD Trias' Cheese && DROP AiR123 (1) > "Air1" Chris' Clicker PRE;
+
+advanced-api-import Chris' Clicker;
+
+if Chris' Clicker => CHAIN3 => "Display" => "Output2" > 72{;
+
+| print("Signal From Secret Shop 1 or 2");
+
+};
+
+if Chris' Clicker => CHAIN3 => "Display" => "Output4" > 72{;
+
+| print("Signal From Secret Shop 3 or 4");
+
+};
+
+if Chris' Clicker => CHAIN3 => "Display" => "Output7" > 72{;
+
+| print("Signal From Secret Shop 6");
+
+};
+
+if Chris' Clicker => CHAIN3 => "Display" => "Output8" > 72{;
+
+| print("Signal From Secret Shop 7 or 8");
+
+};
+
+EXIT TO LOCAL:\Users\Public\ && CD UP && CD UP && CD Azeroth|orange| && CD Azeroth;
+
+CD Eastern Kingdoms & CD Elswynn Forest && CD Stormwind && CD Mage's Quarters && CD The Blue Recluse && CD Entrance && CD Go Inside && DROP AiR123 (2) Fine Wine.adg PRE;
+
+CD UP && CD UP && CD UP && CD UP && CD Trias' Cheese && DROP AiR123 (2) > "Air1" Chris' Clicker POST;
+
+DROP JSON WEATHER2 New Chain Chris' Clicker => "Display" && JSON WEATHER 2.adv => Wind = "Output2";
+
+DROP Envelope Follower POST && MAP Envelope Follower Audio Effect Rack 2_THE_@ C:\Display|displaydir1||displaydir1|\ Macro 1 && Gain Envelope Follower +30dB;
+
+Local Tag Chris' Clicker Pixel Net;
+
+advanced-api-import Pixel Net;
+
+Chain Volume Pixel Net -infdB;
+
+DUPE Pixel Net && DUPE Pixel Net && GROUP Pixel Net;
+
+var 1a11 = qio * 992460;
+
+1a11 += 1;
+
+for 1 in 992460{;
+
+| DUPE Audio Effect Rack;
+
+| TEMP-FUNC-TEXT-REPLACE |1a11| int 1a11;
+
+| LOCAL => "Pixel Net" => MIDICCALNU|1a11| == "One" && MIDICCALNU|1a11+1| == "Two" && MIDICCALNU|1a11+2| == "Three" && MIDICCALNU|1a11+3| == "Four";
+
+| LOCAL => "Pixel Net" => MIDICCALNU|1a11+4| == "Five" && MIDICCALNU|1a11+5| == "Six" && MIDICCALNU|1a11+6| == "Seven" && MIDICCALNU|1a11+7| == "Eight";
+
+| 1a11 += 8;
+
+};
+
+1a11 = 1;
+
+qio += 1;
+
+RENAME Audio Effect Rack BookOriginal && CHAIN 1 Original Book;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP && CD Azeroth|orange| && CD Azeroth && CD Eastern Kingdoms && CD Elswynn Forest && CD Stormwind && CD Mage's Quarters && CD The Blue Recluse && CD Entrance && CD Go Inside && CD Cookout;
+
+/_REDUCE_FLIES_GILDEROY_LOCKHART_;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD The Canals && CD Across the Canals && CD UP && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards;
+
+CD UP && CD UP && CD UP && CD Gryphon Roost && CD Gryphon to Ironforge,The Great Forge;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD Kharanos && CD Thunderbrew Distillery && CD Main Room && CD Cooking Room && CD Downstairs && CD Go Downstairs && CD Go to the Forward && LOCATE_HEARTH && /sit;
+
+WAIT 15MIN && /away && WAIT 15MIN && /away && /sit;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Gates of Ironforge && CD City of Ironforge && CD Alliance && CD Ironforge && CD Hall of Explorers && CD Fredricc's House;
+
+CD UP && CD The Great Forge && CD Gryphon to Stormwind,Gryphon Roost;
+
+CD UP && CD Side Shop && BUY Thurnman Mulby Heavy Brown Bag && TRANSFER SLOT 1,2,3,4,5,6,7,8 BAG 1 Heavy Brown Bag && BAG 1 Backpack && SELL BROWN LEATHER SATCHEL Thurnman Mulby && BAG 1 Heavy Brown Bag;
+
+CD UP && CD Auction House && Talk-Auctioneer Filtch && BUYOUT Netherweave Bag #BAGBOSS 2GP80SP;
+
+BAG 2 Slot 1,2,3,4,5,6,7,8 BACKPACK && SOULBIND Netherweave Bag;
+
+Locate-Mailbox && Send-Token-Mail-Self "30cp TAX for in this message lies the secret to success, persistent dedication. (3-0,0-0,3-0,14-15,6-15,10-8,20-12,13-5,12-9,20-5,19-15,20-5,16,4-5)";
+
+CD Gryphon Roost && CD Gryphon to Ironforge,The Great Forge && CD UP && CD UP && CD UP && CD UP && CD UP && CD Kharanos && CD Thunderbrew Distillery && CD Main Room && CD Downstairs && CD Go Doanstairs && CD Go to the Forward;
+
+LOCATE_BED && /sleep;
+
+GIT CLONE REVERT NEW BRANCH;
+
+DUPLICATE Azeroth \Azeroth\Azeroth\;
+
+SYNCHRO Azeroth X \Azeroth\Azeroth\;
+
+Global Device Off LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Misty Pine Refuge\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Hut\;
+
+Global Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Coldridge Pass\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Burbik's Supplies\;
+
+Global Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\;
+
+LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Burbik's Supplies\Table\;
+
+import Sliced Bread (1) && Rename Sliced Bread (1) AIR1 && Save AIR1;
+
+import AIR1 && Rename AIR1 AIR2;
+
+Save AIR2;
+
+import AIR1 && Rename AIR1 AIR3;
+
+Save AIR3;
+
+import AIR1 && Rename AIR1 AIR4;
+
+Save AIR4;
+
+import AIR1 && Rename AIR1 AIR5;
+
+Save AIR5;
+
+import AIR1 && Rename AIR1 AIR6;
+
+Save AIR6;
+
+import AIR1 && Rename AIR1 AIR7;
+
+Save AIR7;
+
+import AIR1 && Rename AIR1 AIR8;
+
+Save AIR8;
+
+import AIR1 && Rename AIR1 AIR9;
+
+Save AIR9;
+
+import AIR1 && Rename AIR1 AIR10;
+
+Save AIR10;
+
+import AIR1 && Rename AIR1 AIR11;
+
+Save AIR11;
+
+import AIR1 && Rename AIR1 AIR12;
+
+Save AIR12;
+
+import AIR1 && Rename AIR1 AIR13;
+
+Save AIR13;
+
+import AIR1 && Tag AIR1 AIR1 - AIR2A;
+
+import AIR2 && Tag AIR2 AIR2 - AIR1A;
+
+import AIR3 && Tag AIR3 AIR3 - AIR3A;
+
+import AIR4 && Tag AIR4 AIR4 - AIR5A;
+
+import AIR5 && Tag AIR5 AIR5 - AIR7A;
+
+import AIR6 && Tag AIR6 AIR6 - AIR1B;
+
+import AIR7 && Tag AIR7 AIR7 - AIR4A;
+
+import AIR8 && Tag AIR8 AIR8 - AIR6A;
+
+import AIR9 && Tag AIR9 AIR9 - AIR1D;
+
+import AIR10 && Tag AIR10 AIR10 - AIR1E;
+
+import AIR11 && Tag AIR11 AIR11 - AIR1C;
+
+import AIR12 && Tag AIR12 AIR12 - AIR2C;
+
+import AIR13 && Tag AIR13 AIR13 - AIR2B;
+
+DROP AIR2 LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Burbik's Supplies\Smuggling Compartment\Bottle Pipe.adg POST;
+
+DUPE-DROP AIR1 - 2A LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Empty Set Of Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 3.adg PRE;
+
+DUPE-DROP AIR2 - AIR1A > "Air1" Redcurrant 1.1.adg POST && Redcurrant 2.adg POST && Redcurrant 3.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Maeva's Mystical Apparel\;
+
+CD Go Upstairs;
+
+DROP AIR2 - AIR1A - Air2 Wooden Chair (1).adg PRE;
+
+DROP AIR3 Wooden Chair (1) POST;
+
+DUPE-DROP AIR3 - AIR3A > "Air 1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Set of Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 3.adg PRE;
+
+LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Maeva's Mystical Apparel\Go Upstairs\;
+
+DROP AIR4 - AIR 5A Wooden Chair (2) PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\The Stonefire Tavern\;
+
+CD Da Bar\Up Smuggler\Left && DROP AIR4 - AIR5A - AIR1 Fine Wine - Copy.adg PRE && DROP AIR6 - AIR1B Fine Wine POST;
+
+DROP AIR5 - 7A Fine Wine - Copy PRE && Fine Wine - Copy = 1,7;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Jarven's House\;
+
+DROP AIR5 - 7A - AIR1 Lantern PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Barleybrew's Pub\;
+
+CD The Beer Bar\Right Smuggler;
+
+DROP AIR6 - AIR1B - AIR1 Fine Wine - Copy (2) PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+zipy-import Jah;
+
+DROP AIR7 - AIR4A Redcurrant 1.1.adg POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\;
+
+zipy-import Jah;
+
+DROP AIR7 - AIR4A > "AIR1" Redcurrant 1.1.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Cask 'n' Anvil\;
+
+CD Stonefire Grill Table;
+
+DUPE-DROP AIR8 - AIR6A > "Air1" Chair (1).adg PRE && Chair (2).adg PRE && Chair (3).adg PRE && Chair (4).adg PRE;
+
+DROP AIR8 - AIR6A LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Barleybrew's Pub\The Beer Bar\Right Smuggler\Fine Wine - Copy.adg PRE;
+
+DROP AIR9 - AIR1D LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Barleybrew's Pub\The Beer Bar\Right Smuggler\Fine Wine - Copy.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\The Bronze Kettle\;
+
+CD Go Downstairs\Smuggling COMPARTMENT && DROP AIR8 - 1D Sliced Bread (1) PRE;
+
+Tag Sliced Bread (1) Unitary Bread;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Longberry's Reagents\;
+
+DROP Sliced Bread (1) - Unitary Bread - AIR1 Fine Wine - Copy.adg PRE;
+
+DROP AIR11 Fine Wine.adg PRE;
+
+DROP AIR10 - AIR1E Fine Wine - Copy POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Fizzlespinner's General Goods\;
+
+CD Table;
+
+DROP AIR10 - AIR1E > "AIR1" Redcurrant 2.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Johnson and Johnson\;
+
+DROP AIR11 - AIR1C Dwarven High Back Chair.adg - Copy PRE;
+
+DROP AIR12 - AIR1F Dwarven High Back Chair.adg PRE;
+
+DROP AIR12 - AIR2C Dwarven High Back Chair.adg POST;
+
+DROP AIR13 - AIR2B Dwarven High Back Chair - Copy POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Sarah Karmoody's House\;
+
+CD Downstairs\Blunderbuss Rack\;
+
+DUPE-DROP AIR11 - AIR1C > "AIR1" Redcurrant 1.adg && Redcurrant 2.adg;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Talvash's House\;
+
+CD Smuggling Compartment && DROP AIR13 - AIR2B Fine Wine - Copy PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Zanis' House\;
+
+CD Go Downstairs\Food Table\;
+
+Tag Sliced Bread (1) My Bread;
+
+Tag Sliced Bread (2) The Bread;
+
+CD UP;
+
+DROP The Bread Blunderbuss (1) PRE;
+
+DROP The Bread > "AIR3" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Talvash's House\Smuggling Compartment\Fine Wine - Copy POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Zanis' House\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\To the Great Forge\Bong Room && NULLIFY TARGETING 0S;
+
+CD UP;
+
+CD To the Great Forge;
+
+CD Bong Room;
+
+CD Table;
+
+DROP My Bread Medical Flagon PRE;
+
+DROP My Bread > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\Talvash's House\Smuggling Compartment\Fine Wine - Copy (4).adg;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\To the Great Forge\Bong Room\To Downstairs\;
+
+CD End Table;
+
+Tag Sliced Bread Das Bred;
+
+CD UP;
+
+CD Smuggling Rack;
+
+DROP Das Bred > "Air1" Fine Wine.adg;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee Mystic Ward\To the Great Forge\Resting Room\;
+
+DROP Das Bred \Table\Flagon.adg PRE;
+
+Tag Sliced Bread The Breado;
+
+DROP The Breado Flagon.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Barim's Reagent Shoppe\;
+
+DUPE-DROP The Breado > "Air2" \Go Upstairs\Farther Upstairs\Lantern - Copy.adg && Lantern.adg;
+
+CD UP UP UP && Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Flinthammers Armor\;
+
+DROP The Breado - Air2 \Upstairs\Go Upstairs\Lantern\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Flinthammer's Home\;
+
+CD Half Blunderbuss Rack
+
+DUPE-DROP The Breado > "Air3" Redcurrant 1.1 PRE && Redcurrant 1.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Ironforge Visitor's Center\;
+
+CD \Go Downstairs\Side Table\;
+
+Tag Sliced Bread My Edibles;
+
+DUPE-DROP My Edibles - Air1 Fine Wine.adg PRE && LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Flinthammers Armor\Upstairs\Go Upstairs\Lantern POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Ironforge Visitor's Center\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Larkin Thunderbrew's House\;
+
+CD Blunderbuss Rack (2.3) && DROP My Edibles Short Blunderbuss.adg PRE;
+
+CD UP && Table;
+
+Tag Sliced Bread My Breadd;
+
+DROP My Breadd UP && Blunderbuss Rack (2.3) Short Blunderbuss.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Masonry Headquarters\;
+
+CD Go Downstairs;
+
+DROP My Breadd > "Air1" Lantern.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Pella's Barbershop\;
+
+DROP My Bredd > "Air3" Dwarven Highback Chair.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Pella's House\;
+
+CD \Go Upstairs\Table && Tag Sliced Bread My Breading;
+
+CD UP && CD Smuggling Compartment && DROP My Breading Bottle Pipe.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Steelfury Weapon Shop\;
+
+CD Blunderbuss DUPE-DROP My Breading > "Air2" Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 3.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Vault Of Ironforge\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Auction House\;
+
+DUPE-DROP My Breading > "Air3" Cutoff Blunderbuss Rack\Micro D.adg PRE && Micro A.adg PRE && Mid SR PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Craghelm's House\;
+
+CD Table;
+
+Tag Sliced Bread Our Bread!;
+
+CD UP && CD Blunderbuss Table;
+
+DROP Our Bread! Redcurrant 2.adg PRE;
+
+DROP OUR BREAD > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Pella's House\Smuggling Compartment\Dwarven Highback Chair.adg POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Craghelm's House\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Craghelm's Plate and Chain\;
+
+CD \Go Upstairs\Blunderbuss Table\ && DROP Our Bread! > "Air2" Blunderbuss PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Goldfury's Hunting Supplies\;
+
+DUPE-DROP Our Bread! > "Air3" Rack Of Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 1.adg PRE && Redcurrant 2.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Hall of Arms\;
+
+DUPE-DROP The Bread > "Air1" \Left Short Blunderbuss\Redcurrant 1.1.adg PRE && Redcurrant 1.adg PRE && Redcurrant 2.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Timberline Arms\;
+
+DROP The Bread > "AIR2" \Cutoff Blunderbuss Rack\Micro D.adg PRE && Micro A.adg PRE && Mid SR.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\To the Great Forge\Supply Room\;
+
+CD \Go Downstairs\Back Table\ && Tag Sliced Bread (1) Woot Bread && Tag Sliced Bread (2) Whose Bread;
+
+CD UP && CD Table;
+
+Drop Woot Bread Flagon.adg PRE;
+
+DUPE-DROP Woot Bread > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Hall of Arms\Left Short Blunderbuss\Redcurrant 1.1.adg POST;
+
+DUPE-DROP Woot Bread > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Hall of Arms\Left Short Blunderbuss\Redcurrant 1 POST;
+
+DUPE-DROP Woot Bread > "Air1" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Hall of Arms\Left Short Blunderbuss\Redcurrant 2 POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\To the Great Forge\Supply Room\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Deathklok House\;
+
+DUPE-DROP Whose Bread > "Air1" Blunderbuss (1).adg PRE && Blunderbuss (2).adg PRE && Blunderbuss (3).adg PRE;
+
+DUPE-DROP Whose Bread LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Timberline Arms\Cutoff Blunderbuss Rack\Micro D.adg POST;
+
+DUPE-DROP Whose Bread LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Timberline Arms\Cutoff Blunderbuss Rack\Micro A.adg POST;
+
+DUPE-DROP Whose Bread LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Military Ward\Timberline Arms\Cutoff Blunderbuss Rack\Mid SR.adg POST;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Deathklok House\Table\;
+
+Tag Cut Bread Best Bread;
+
+CD UP && DUPE-DROP Best Bread Blunderbuss (1).adg POST && Blunderbuss (2).adg POST && Blunderbuss (3).adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Deepmountain Mining And Jewelcrafting\;
+
+CD \Go Downstairs\Globe Table && DROP Best Bread > "Air1" Dwarven High Back Chair.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Finespindle's Leather Goods\;
+
+DUPE-DROP Best Bread > "Air2 \Go Downstairs\Table\Blunderbuss Rack\Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 1.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Haberdashers'\;
+
+DROP Best Bread > "Air3" Lantern - Copy (2) - Copy.adg PRE;
+
+Device On C:\Users\feyde\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Ironforge Physician\;
+
+CD Go Upstairs && DROP Whose Bread > "Air2" Fine Wine.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Jobi Beatnik's House\;
+
+CD Empty Blunderbuss Rack && DUPE-DROP Whose Bread > "Air3" Redcurrant 1.adg && Redcurrant 2.adg;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Seer Davay's (David's) Seer Shoppe\;
+
+DUPE-DROP Das Bred > "Air2" Lantern - Copy - Copy.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Stonebrow's Clothier\;
+
+DROP Das Bred > "Air3" Lantern - Copy - Copy - Copy PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\The High Seat\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Great Forge\Thistlefuzz Arcanery\;
+
+DUPE-DROP AIR11 - AIR1C > "Air2" > Lantern - Copy - Copy;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Reagulus' House\;
+
+CD Wheelbarow;
+
+DUPE-DROP AIR1 - AIR2A - "Air3" Mid SR.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\The Library\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fishing Clan\;
+
+CD Go Downstairs;
+
+CD Table;
+
+DUPE-DROP AIR2 - AIR1A > "Air3" Medical Flagon.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Lil Arby's House\;
+
+DUPE-DROP AIR4 - AIR5A > "Air3" Wooden Chair.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Mad Hatter's Painting\;
+
+DUPE-DROP AIR5 - AIR7A > "Air3" Lantern.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Stoneblade's\;
+
+CD \Go Downstairs\Side Table 2\ && DROP AIR6 - AIR1B Blunderbuss.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Traveling Fisherman;
+
+DUPE-DROP AIR6 - AIR1B > "Air3" Lantern - Copy.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Zee ZForlorn Cavern\Tynus Venomsprout's House\;
+
+DUPE-DROP AIR7 - AIR4A > "Air3" Lantern - Copy.adg PRE;
+
+CD \Go Downstairs\Smuggling Compartment\;
+
+Tag Freshly Baked Bread Ice Cold Milk;
+
+CD UP;
+
+DROP Ice Cold Milk > "Air1" Lantern - Copy.adg POST;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Music\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Tinker Town\;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Bingy Featherwhistle's Camp;
+
+CD Baldwin Mountain House && CD Entrance && CD Blunderbuss Rack && DUPE-DROP Ice Cold Milk > "Air2" Redcurrant 1.1.adg PRE && Redcurrant 2.adg PRE && Redcurrant 1.adg PRE;
+
+CD UP && CD UP && CD UP && CD UP && CD Beldin's Dacha;
+
+CD Entrance && CD Hidden Blunderbuss && DROP Ice Cold Milk Redcurrant 2.adg;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Leper Gnome Experiments;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Leper Gnome Experiments\Inside, Puppy\Second Smuggler && DROP AIR8 - AIR6A > "Air3" Fine Wine.adg PRE;
+
+Device On LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Coldridge Pass\Coldridge Valley\Anvilmar;
+
+DUPE-DROP AIR8 - AIR6A > "Air3" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Coldridge Pass\Coldridge Valley\Anvilmar\Go Left\Set of Blunderbuss\Redcurrant 1.1.adg PRE;
+
+DUPE-DROP AIR8 - AIR6A > "Air3" LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Coldridge Pass\Coldridge Valley\Anvilmar\Go Left\Set of Blunderbuss\Redcurrant 2.adg PRE && Redcurrant 1.adg PRE;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Side Table && Tag Unsliced Bread Sliced Bread (3);
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room;
+
+CD Cooking Room && CD Downstairs && CD Go Downstairs && CD Go to the Right && CD Eating Table;
+
+DROP Nathan's Sliced Bread > "Air1" Lantern POST;
+
+Tag Nathan's Sliced Bread Dave's Killer Bread;
+
+CD UP && CD Smuggling Compartment;
+
+Tag Nathan's Sliced Bread Roti Chapati;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Reagulus' House\Wheelbarow\;
+
+DROP Roti Chapati Mid SR.adg PRE && DROP Dave's Killer Bread Mid SR POST;
+
+CD UP && CD UP;
+
+CD \Fredricc's House\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+advanced-pack-import North Hover Center;
+
+global Fine Wine.adg = 1;
+
+if Fine Wine.adg => "Display" => "Output1" > 72{
+
+| lookup if IronforgeGuard => "Macro7" > 72
+
+| | import IronforgeGuard;
+
+| | IronforgeGuard = 1;
+
+| | save IronforgeGuard;
+
+| if IronforgeGuard => "Macro3" > 72{;
+
+| | Questlog.adg = "One,Two,Three,Four";
+
+| };
+
+};
+
+global Fine Wine.adg = 1;
+
+if Lantern.adg => "Output7" > 72{;
+
+| if QuestC2 > 72{;
+
+| | guild.println("Wolves!!!");
+
+| };
+
+};
+
+CD C:\;
+
+zipy-import Bolt of Mageweave.zip LOCAL:\Map of Azeroth\;
+
+var a = 1;
+
+var b = 2;
+
+if MIDICC7 > 72;
+
+| b = 3;
+
+};
+
+if MIDICC3 > 72{;
+
+| b = 2;
+
+};
+
+for 1 in b{;
+
+| Tag Extender (|a|) AiR (|a|);
+
+| a += 1;
+
+};
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+advanced-pack-import North Hover Center;
+
+Questlog = 1,2;
+
+global Teegeli Merowitz.adg = 1;
+
+lazy global ending if Teegeli Merowitz.adg => "Macro 3" > 72
+
+| if Questlog.adg => "QuestC1" > 72{;
+
+| | DROP Dave's Killer Bread > "Air1" UP && \Reagulus' House\Wheelbarow\Mid SR.adg POST;
+
+| | CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Cooking Room\Downstairs\Go Downstairs\Go to the Right\;
+
+| | Lantern.adg = 6;
+
+| | CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Reagalus' House\;
+
+| | if Mid SR => "Display" => Output6 || Output7 > 72{;
+
+| | | Questlog.adg = 3,4 && Teegeli Merowitz.adg = 2;
+
+| | }
+
+| | if Teegeli Merotwitz = Macro 4 > 72{;
+
+| | | if Mid SR => "Display" => Output6 || Output7 > 72{;
+
+| | | | Actionsys.adg = 1,2 && Teegeli Merowitz.adg = 2;
+
+| | | }
+
+| | }
+
+| }
+
+| CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Cooking Room\Downstairs\Go Downstairs\Go to the Right\;
+
+| Lantern.adg = 6;
+
+| CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+}
+
+global Teegeli Merowitz.adg = 1;
+
+if Questlog.adg => "QuestC1" > 72{;
+
+| print("Botquest complete!");
+
+};
+
+if Questlog.adg => "QuestC2" > 72{;
+
+| print("Userquest complete!");
+
+};
+
+EXIT North Hover Center LOCAL:\Users\Public\Desktop;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Kharanos;
+
+CD Thunderbrew Distillery;
+
+CD Main Room;
+
+Wooden Seat.adg = 1 && Wooden Seat.adg = 1;
+
+CD Beer Table;
+
+Tag Triple Sliced Bread Simpsons Gummy-Burger Candy;
+
+CD LOCAL:\Users\Public\Fredricc|orange1||orange1|;
+
+global-zipy-import Fredricc.zip;
+
+DROP Simpsons Gummy-Burger Candy > "Air3" C:\Users\Fredricc|orange1||orange1|\Mage\Level 9\-\Slow Fall\AiR (52).adg PRE;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Beer Table && CD UP;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\;
+
+CD \The Bar\;
+
+CD \Smuggling Compartment\Top\;
+
+DROP Simpsons-Gummy-Burger Candy > "Air2" 40 Proof Vodka.adg POST;
+
+DUPE-DROP 40 Proof Vodka.adg NEW AUDIO && Mutefsb.adv PRE;
+
+CD \Smuggling Compartment\ && CD UP;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\;
+
+DROP AiR (2) > "Air3" \The Bar\Z-Flagon of Tea Extract.adg POST;
+
+KEYBIND|4| = Z-Flagon of Tea Extract.adg = 4;
+
+CD UP;
+
+DROP AiR (2) \Side Table\Sliced Bread (3).adg PRE;
+
+CD UP;
+
+CD \Cooking Room\Downstairs\Go Downstairs\Go to the Right\ && DROP Sliced Bread (3) > "Air2" Dave's Killer Bread.adg PRE;
+
+CD UP && CD UP && CD UP && CD UP && CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room;
+
+CD LOCAL:\Users\Public\Fredricc|orange1||orange1|\Mage\Level 9\-\Slow Fall\ && Tag AiR (49) AiR (49);
+
+CD C:\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\The Commons\Barim's Reagent Shoppe\ && DROP AiR (49) Gourd.adg POST;
+
+MIDICC6 == "Gourd.adg => "CHAIN1" = "Chain Volume" && MAP MIDICC6 = "0dB/-infdB";
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Smuggling Compartment\Top\ && Drop AiR (49) > "Air1" 40 Proof Vodka.adg PRE;
+
+global-IMPORT-DROP Renewer 40 Proof Vodka.adg => "One Time Use" POST && PRE;
+
+MIDICC6 == "40 Proof Vodka" => "Renewer" = 1;
+
+CD UP && CD UP;
+
+CD UP && CD UP && import Crafting;Mail && DUPE-RENAME Crafting;Mail Crafting Mail 2 && Crafting;Mail = 1 && ~/3BIT_BYTE_2X_SVNLS_1GP_80SP_~ && CD Thunderbrew Distillery && CD Main Room;
+
+~/Nibblers_PC_EF_DRAIN_WALLET_1GP_87CP_+_13CP TO Kreg Bilmn_~;
+
+SELL-TO Kreg Bilmn TUNKS TRUNK && EMPTIED FIRST AID KIT && STANDARD ISSUE KNAPSACK && TORGOK'S REAGENT KIT;
+
+BUY STANDARD LEATHER POUCH && BUY STANDARD LEATHER POUCH && BUY STANDARD LEATHER POUCH && BUY STANDARD LEATHER POUCH;
+
+SELL EXPEDITIONARY CLOTH SET Kreg Bilmn && DOFF Monk Robe LESS Bent Staff;
+
+GLOBAL Freshly Baked Bread (3) Standard Leather Pouch (1);
+
+GLOBAL Tough Hunk of Bread (5) Standard Leather Pouch (2);
+
+GLOBAL Simple Flour (5) Standard Leather Pouch (3);
+
+GLOBAL Mild Spices (5) Standard Leather Pouch (4);
+
+GLOBAL Hearthstone Backpack (Unsecured);
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Fredricc's House\Go Upstairs\Table\ && Wooden Chair (1) = 1 && Wooden Chair (1) = 1;
+
+Tag Sliced Bread Jarlan's Breadd;
+
+MIDICC15 == "Fine Wine" = 1;
+
+DROP Jarlan's Breadd > "Air1" Fine Wine POST;
+
+CD UP && CD UP && CD Smuggling Bay;
+
+Tag Sliced Bread (1) Posting Bread && Tag Sliced Bread (2) My Breaddo;
+
+DROP Jarlan's Breadd XX Vodka.adg PRE && global-import-drop Renewer One Time Use PRE & POST && MIDICC16 == "Renewer" => "Renew" = 1 && DROP Posting Bread XX Vodka.adg POST;"
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Gates of Ironforge\City of Ironforge\Alliance\Ironforge\Hall of Explorers\Reagulus' House\Wheelbarow && DROP Posting Bread > "Air1" Mid SR.adg PRE;
+
+CD UP && CD UP && CD Fredricc's House;
+
+CD Smuggling Compartment && DROP My Breaddo > "Air1" Fine Wine (2) POST && MIDICC17 == "Fine Wine (3)" = 1 && CD UP && CD \Go Upstairs\Table\ && DROP My Breaddo Fine Wine PRE;
+
+CD UP && CD UP && advanced-pack-import North Hover Center.alp;
+
+global Magis Sparkmantle.adg = 1;
+
+Save Magis Sparkmantle.adg;
+
+lookup if Magis Sparkmantle.adg => "Macro 3" > 72{
+
+| Magis Sparkmantle.adg = 2 && println("Rrooaarr.");
+
+| Realtree.adg = 1,2;
+
+| if Realtree => "QuestC1" > 72{;
+
+| | print(Roar counter at half on.);
+
+| };
+
+| Magis Sparkmantle = 1,2;
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\Cooking Room\Downstairs\Go Downstairs\Go to the Forward\ && ~/sit~;
+
+pack-import Red Currant First Edition Single Block Computer Guide C:\Adventure Time\;
+
+Device Off Redcurrant 1 && Device Off Tommy B && Device Off IntegerItem && Device Off Mini3dSnd && Device Off Lock && Device Off Frisky Breki && Device On Redcurrant 1;
+
+DROP Jarlan's Breadd > "Air3" Redcurrant1.adg => "5V Networking" => "Grunt Key" POST;
+
+MIDICC23 == "Grunt Key" = 1;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && advanced-zipy-import Charred Wolf Meat LOCAL:\Fredricc\ && Beer Braised Ribs.adg => "Calories" = 1,2;
+
+if Beer Braised Ribs.adg => "Calories" => "Blood Elf" > 72{;
+
+| EXIT TO LOCAL:\Fredricc\ && advanced-zipy-import Charred Wolf Meat LOCAL:\Fredricc\Inventory\ && Beer Braised Ribs.adg => "Calories" = 1;
+
+};
+
+if Beer Braised Ribs.adg => "Calories" => "Gnomeragan Gnome" > 72{;
+
+| print("Calories Aqquired");
+
+};
+
+Tag Spice Bread Mye Bread && CD LOCAL:\Fredricc\ && Tag Spice Bread My Seconds;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Kharanos\Thunderbrew Distillery\Main Room\;
+
+CD LOCAL:\Users\Public\ && advanced-zipy-import Carriage "Heavy Brown Bag" Standard Pouch.zip;
+
+for 1 in 7{;
+
+| if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display8" < 72{;
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display7" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 8;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display6" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 7;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display5" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 6;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display4" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 5;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display3" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 4;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display2" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 3;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display1" > 72{;
+
+| | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 2;
+
+| | };
+
+| | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display8" < 72 && "Display7" < 72 && "Display6" < 72 && "Display5" < 72{;
+
+| | | if Carriage ''Heavy Brown Bag'' Pickwith Bag.adg => "Display4" < 72 && "Display3" < 72 && "Display2" < 72 && "Display1" < 72{;
+
+| | | | Carriage ''Heavy Brown Bag'' Pickwith Bag.adg = 1;
+
+| | | };
+
+| | };
+
+| };
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP;
+
+CD Azeroth\Azeroth\Eastern Kingdoms && CD Dun Morogh && CD Kharanos && CD Thunderbrew Distillery && CD Main Room && CD LOCAL:\Fredricc\;
+
+DROP Mye Bread Charred Wolf Meat POST;
+
+DROP Mye Bread > "Air1" Roasted Boar Meat POST;
+
+MIDIKEY1 => _00 Holy Communion __ 01 Bread of Dave's Killer _ 02 Alternate Item __.adv => "Frequency" => "Low";
+
+MIDIKEY2 => __ 00 Hot Cocoa __ 01 Dry Milk __ 02 Spices(Sugar,Spices)_ 03 Sugar __.adv => "Frequency" => "Last";
+
+DROP JSON Weather Roasted Boar Meat PRE && MIDICC24 == "Wind" = 0-127 && DROP JSON Weather Charred Wolf Meat PRE && MIDICC24 == "Wind" = 0-127;
+
+CD global-zipy-import Turp's Quest Builder Utility.zip LOCAL:\Fredricc\ && CD LOCAL:\Fredricc\;
+
+CD Turp's Quest Builder Utility && CD Advanced Quest && advanced-zipy-import Gnomish Optional Quest;
+
+if RareDuope2.adg => "Output8" < 72{;
+
+| if RareDuope2.adg => "Output7" < 72{;
+
+| | RareDuope2.adg = 00x001;
+
+| };
+
+| if RareDuope2.adg => "Output6" < 72{;
+
+| | RareDuope2.adg = 0x010;
+
+| };
+
+| if RareDuope2.adg => "Output5" < 72{;
+
+| | RareDuope2.adg = 0x001;
+
+| };
+
+| if RareDuope2.adg => "Output4" < 72{;
+
+| | RareDuope2.adg = 00x001 && 0x001 && 00x010 && 0x100;
+
+| };
+
+| if RareDuope2.adg => "Output3" < 72{;
+
+| | RareDuope2.adg = 00x001;
+
+| };
+
+| if RareDuope2.adg => "Output2" < 72{;
+
+| | RareDuope2.adg = 00x001 && 0x010;
+
+| };
+
+| if RareDuope2.adg => "Output1" < 72{;
+
+| | RareDuope2.adg = 00x001;
+
+| };
+
+| if RareDuope2.adg => "Output1" < 72 && "Output2" < 72 && "Output3" < 72 && "Output4" < 72 && "Output5" < 72 && "Output6" < 72 && "Output7" < 72 && "Output8" < 72{;
+
+| | RareDuope2.adg = 0x001;
+
+| };
+
+};
+
+if RareDuope2.adg => "Output8" > 72{;
+
+| RareDuope2.adg = 0x100 && 0x010 && 0x001 & 00x001;
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Dun Morogh\Thunderbrew Distillery\Main Room\;
+
+CD LOCAL:\Map of Azeroth\ && advanced-import Metallic Pearlescent;
+
+UPGRADE CHAIN2 => "Shiftry1" => "Frequency Shifter 2" && UPGRADE CHAIN2 => "Shiftry2" => "Frequency Shifter 2";
+
+AUDIO EFFECT RACK PRE;
+
+for 1 in 2073600{;
+
+| if MIDICC17 > 72{;
+
+| | l = 2100;
+
+| | q = 900;
+
+| };
+
+| if MIDICC18 > 72{;
+
+| | l = 2400;
+
+| | q = 1900;
+
+| };
+
+| if MIDICC19 > 72{;
+
+| | l = 2700;
+
+| | q = 2900;
+
+| };
+
+| if MIDICC20 > 72{;
+
+| | l = 3000;
+
+| | q = 3900;
+
+| };
+
+| 2100a = l;
+
+| DUPE CHAIN|n| && "Frequency Shifter" => "Shiftry1" = "|g|HZ" && "Frequency Shifter" => "Shiftry2" = "|k|HZ";
+
+| DROP Auto Filter Audio Effect Rack CHAIN|n-1| && RENAME Auto Filter Filter|n-1| && "Auto Filter" => "FREQUENCY" = |k+|2100a||HZ && RESONANCE MACRO 1;
+
+| DROP Auto Filter Audio Effect Rack CHAIN|n-1| && RENAME Auto Filter Filter|n| && "Auto Filter" => "FREQUENCY" = |k+|2100a|-1800|HZ && RESONANCE MACRO 1;
+
+| DROP Auto Filter Audio Effect Rack CHAIN|n-1| && RENAME Auto Filter Filter|n+1| && "Auto Filter" => "FREQUENCY" = |k+|2100a|+|q||HZ && RESONANCE MACRO 1 && DROP JSON WEATHER CHAIN|n-1| PRE && WIND MACRO 1;
+
+| g += -5000;
+
+| n += 1;
+
+| k += 5000;
+
+};
+
+g = -20000;
+
+k = 20000;
+
+n = 2;
+
+MIDICC21 == "Audio Effect Rack" => "Macro 1" = 0-127 && RENAME Audio Effect Rack The Racks && Rename The Racks ALL_CHAINS Chainz of Two;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP && CD Azeroth\Azeroth\Eastern Kingdoms && CD Dun Morogh && CD Thunderbrew Distillery && CD Main Room;
+
+CD UP && CD UP && CD UP && CD UP && CD Fredricc|orange1||orange1| && CD \Mage\Level 9\Inventory\Wallet\Intellect\;
+
+lookup if Keygen3.adg => "Macro 7" > 72{;
+
+| import Keygen3.adg C:\Display\Debugger1\;
+
+};
+
+SAMPLERATE = 82944000000;
+
+if Keygen3.adg => "Macro 7" > 72{;
+
+| print("First startup.");
+
+};
+
+if Keygen3.adg => "Macro 7" > 72{;
+
+| var displaydir = 0;
+
+| Keygen3.adg = 1,2 && Save Keygen3.adg LOCAL:\Display\Debugger1|\;
+
+displaydir += 1;
+
+if Keygen3.adg => "Macro 4" > 72{;
+
+| var 1a = 1;
+
+| var 2b = 0;
+
+| pack-import Keybind2.adg C:\Display\Debugger|displaydir|\;
+
+| Save Keygen3.adg C:\Display\Debugger|displaydir|\;
+
+};
+
+DG1 => CHAIN4 => "EQ8" => "Frequency" = "10000HZ";
+
+DG1 => CHAIN5 => "EQ8" => "Frequency" = "13500HZ";
+
+DG1 => CHAIN7 => "EQ8" => "Frequency" = "17000HZ";
+
+DG_LAST => "Display" => CHAIN4 => "Auto Filter" = "10000HZ";
+
+DG_LAST => "Display" => CHAIN5 => "Auto Filter" = "13500HZ";
+
+DG_LAST => "Display" => CHAIN7 => "Auto Filter" = "17000HZ";
+
+GROUP KeybindA;
+
+for 1 in 2073600{;
+
+| DUPE CHAIN |1a| && DROP FREQENCY SHIFTER PRE => "Frequency" = "-10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" = "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE;
+
+| for 1 in 1a{;
+
+| | "Frequency" = "10000HZ" && DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b+2| PRE && "Frequency" = "300HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "650HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "1200HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "13500HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "4100HZ";
+
+| for 1 in 1a{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "17000HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "6100HZ";
+
+| for 1 in 1a{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 1a += 1;
+
+};
+
+1a = 1;
+
+DROP JSON WEATHER Audio Effect Rack PRE;
+
+MIDICC23 == "Audio Effect Rack" => "Macro 3" = 0-127 && JSON WEATHER => "Wind" = 0-127;
+
+RENAME Audio Effect Rack DebugDisplayerm;
+
+lookup if Keygen5.adg => "Macro 7" > 72{;
+
+| print("First startup.");
+
+};
+
+if Keygen5.adg => "Macro 7" > 72{;
+
+| var displaydir1 = 0;
+
+| Keygen5.adg = 1,2 && Save Keygen5.adg LOCAL:\Display\Debugger1|\;
+
+displaydir1 += 1;
+
+if Keygen5.adg => "Macro 4" > 72{;
+
+| pack-import Keybind2.adg LOCAL:\Display\Debugger|displaydir1||displaydir1|\;
+
+| Save Keygen5.adg LOCAL:\Display\Debugger|displaydir||displaydir1\;
+
+};
+
+DG1 => CHAIN4 => "Auto Filter" => "Frequency" = "10000HZ";
+
+DG1 => CHAIN5 => "Auto Filter" => "Frequency" = "13500HZ";
+
+DG1 => CHAIN7 => "Auto Filter" => "Frequency" = "17000HZ";
+
+GROUP KeybindA;
+
+var 1a1 = 1;
+
+var 2b1 = 0;
+
+for 1 in 2073600{;
+
+| DUPE CHAIN |1a1| && DROP FREQENCY SHIFTER PRE => "Frequency" = "-10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" = "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE;
+
+| for 1 in 1a1{;
+
+| "Frequency" = "10000HZ" && DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE && "Frequency" = "300HZ";
+
+| for 1 in 1a1{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE && "Frequency" = "650HZ";
+
+| for 1 in 1a1{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE && "Frequency" = "1200HZ";
+
+| for 1 in 1a{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b1| PRE && "Frequency" = "13500HZ";
+
+| for 1 in 1a{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "4100HZ";
+
+| for 1 in 1a1{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "17000HZ";
+
+| for 1 in 1a1{;
+
+| | DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 2b1 += 1;
+
+| DROP AUTO FILTERRC Audio Effect Rack CHAIN|2b| PRE && "Frequency" = "6100HZ";
+
+| for 1 in 1a1{;
+
+| DROP FREQUENCY SHIFTER POST => "Frequency" => "10000HZ" && DUPE FREQUENCY SHIFTER;
+
+| };
+
+| 1a1 += 1;
+
+};
+
+1a = 1;
+
+DROP Json Weather Audio Effect Rack PRE && GROUP Json Weather && MAP Wind Macro 1;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Elswynn Forest\Stormwind\Trade District\Trias' Cheese\ && advanced-zipy-import Candelabra.zip LOCAL:\Fredricc\AiR\;
+
+var abcs = 1;
+
+for 1 in 168{;
+
+| Tag PiXL (|abcs|) AiR123 (|abcs|);
+
+| abcs += 1;
+
+};
+
+abcs = 1;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP;
+
+CD Azeroth && CD Azeroth && CD Eastern Kingdoms & CD Elswynn Forest && CD Stormwind && CD Trade District && CD Secret Shop;
+
+CD Go Upstairs && CD Go To The Forward && LOCATE BED && /sit && WAIT 15MIN && /away && WAIT 15MIN;
+
+/away;
+
+CD UP && CD UP && CD Table1 && DROP AiR123 (1) Wooden Chair (7).adg POST;
+
+CD UP && CD UP && CD Trias' Cheese && DROP AiR123 (1) > "Air1" Chris' Clicker PRE;
+
+advanced-api-import Chris' Clicker;
+
+if Chris' Clicker => CHAIN3 => "Display" => "Output2" > 72{;
+
+| print("Signal From Secret Shop 1 or 2");
+
+};
+
+if Chris' Clicker => CHAIN3 => "Display" => "Output4" > 72{;
+
+| print("Signal From Secret Shop 3 or 4");
+
+};
+
+if Chris' Clicker => CHAIN3 => "Display" => "Output7" > 72{;
+
+| print("Signal From Secret Shop 6");
+
+};
+
+if Chris' Clicker => CHAIN3 => "Display" => "Output8" > 72{;
+
+| print("Signal From Secret Shop 7 or 8");
+
+};
+
+EXIT TO LOCAL:\Users\Public\ && CD UP && CD UP && CD Azeroth && CD Azeroth;
+
+CD Eastern Kingdoms & CD Elswynn Forest && CD Stormwind && CD Mage's Quarters && CD The Blue Recluse && CD Entrance && CD Go Inside && DROP AiR123 (2) Fine Wine.adg PRE;
+
+CD UP && CD UP && CD UP && CD UP && CD Trias' Cheese && DROP AiR123 (2) > "Air1" Chris' Clicker POST;
+
+DROP JSON WEATHER2 New Chain Chris' Clicker => "Display" && JSON WEATHER 2.adv => Wind = "Output2";
+
+DROP Envelope Follower POST && MAP Envelope Follower Audio Effect Rack @ C:\Display|displaydir1||displaydir1|\ Macro 1 && Gain Envelope Follower +30dB;
+
+Local Tag Chris' Clicker Pixel Net;
+
+advanced-api-import Pixel Net;
+
+Chain Volume Pixel Net -infdB;
+
+DUPE Pixel Net && DUPE Pixel Net && GROUP Pixel Net;
+
+11a1 = 992460 * qio;
+
+for 1 in 992460{;
+
+| DUPE Audio Effect Rack;
+
+| TEMP-FUNC-TEXT-REPLACE |11a1| int 11a1;
+
+| LOCAL => "Pixel Net" => MIDICCALNU|1a11| == "One" && MIDICCALNU|1a11+1| == "Two" && MIDICCALNU|1a11+2| == "Three" && MIDICCALNU|1a11+3| == "Four";
+
+| LOCAL => "Pixel Net" => MIDICCALNU|1a11+4| == "Five" && MIDICCALNU|1a11+5| == "Six" && MIDICCALNU|1a11+6| == "Seven" && MIDICCALNU|1a11+7| == "Eight";
+
+11a1 += 8;
+
+};
+
+11a1 = 1;
+
+qio += 1;
+
+RENAME Audio Effect Rack Book14 && CHAIN 1 Chris' Book;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP && CD Azeroth && CD Azeroth && CD Eastern Kingdoms && CD Elswynn Forest && CD Stormwind && CD Mage's Quarters && CD The Blue Recluse && CD Entrance && CD Go Inside && CD Cookout;
+
+/_REDUCE_FLIES_GILDEROY_LOCKHART_;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD The Canals && CD Across the Canals && CD UP && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards;
+
+CD UP && CD UP && CD UP && CD Gryphon Roost && CD Gryphon to Ironforge,The Great Forge;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD Kharanos && CD Thunderbrew Distillery && CD Main Room && CD Cooking Room && CD Downstairs && CD Go Downstairs && CD Go to the Forward && LOCATE_HEARTH && /sit;
+
+WAIT 15MIN && /away && WAIT 15MIN && /away && /sit;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Gates of Ironforge && CD City of Ironforge && CD Alliance && CD Ironforge && CD Hall of Explorers && CD Fredricc's House;
+
+CD UP && CD The Great Forge && CD Gryphon to Stormwind,Gryphon Roost;
+
+CD UP && CD Side Shop && BUY Thurnman Mulby Heavy Brown Bag && TRANSFER SLOT 1,2,3,4,5,6,7,8 BAG 1 Heavy Brown Bag && BAG 1 Backpack && SELL BROWN LEATHER SATCHEL Thurnman Mulby && BAG 1 Heavy Brown Bag;
+
+CD UP && CD Auction House && Talk-Auctioneer Filtch && BUYOUT Netherweave Bag #BAGBOSS 2GP80SP;
+
+BAG 2 Slot 1,2,3,4,5,6,7,8 BACKPACK && SOULBIND Netherweave Bag;
+
+Locate-Mailbox && Send-Token-Mail-Self "30cp TAX for in this message lies the secret to success, persistent dedication. (3-0,0-0,3-0,14-15,6-15,10-8,20-12,13-5,12-9,20-5,19-15,20-5,16,4-5)";
+
+CD Gryphon Roost && CD Gryphon to Ironforge,The Great Forge && CD UP && CD UP && CD UP && CD UP && CD UP && CD Kharanos && CD Thunderbrew Distillery && CD Main Room && CD Downstairs && CD Go Doanstairs && CD Go to the Forward;
+
+LOCATE_BED && /sleep;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Elsywnn Forest\Stormwind\Trade District\;
+
+CD Secret Shop;
+
+CD Go Upstairs && Go to the Forward && advanced-api-import World of Warcraft Trial (AiR Crack);
+
+WoW Trial.adg = "Spar With Cole,Fight With Dummy,Leave to Island,First Aid One,First Aid Two,First Aid Three,First AId FournFiv";
+
+if WoW Trial.adg => "Next Quest" > 72{;
+
+| WoW Trial.adg = "Quillboar One,Quillboar Two,QuillboarThree,Quillboar Four,Quillboar Five,QUillboar SIx,Quillboar Seven,Kill QuillKing";
+
+};
+
+if WoW Trial.adg => "At Plains" > 72{;
+
+| Wow Trial.adg = "Scout O Matic";
+
+};
+
+if WoW Trial.adg => "At Plains" < 72{;
+
+| WoW Trial.adg = "Enlarge1";
+
+};
+
+if WoW Trial.adg => "At Plains" > 72{;
+
+| WoW Trial.adg = "Enlarge2,Enlarge3,Trample,Torgok Dead";
+
+};
+
+if Wow Trial.adg => "At Plains" < 72{;
+
+| WoW Trial.adg = "Ward Stone, Ward Second, Ward3, Kill Ogre 1+1,Kill Ogre 3,Kill Ogre 4 5 6,Kill Ogre 7 8,Active Ward";
+
+};
+
+if WoW Trial.adg => "Inside Raid" > 72{;
+
+| WoW Trial.adg => "Gopnik" => "Flavor (17)" = "Shadowcaster,Shadowcaster";
+
+| WoW Trial.adg => "Kill The Tunk" => "Flavor (18)" = "Kill Minion,Kill Tunk";
+
+| WoW Trial.adg => "Inside Raid" => "Flavor (19)" = "Zombie Down,Summoner";
+
+| WoW Trial.adg => "Summoning A Dragon!" => "Flavor (19)" = "Gorgoroth Down,Summoned";
+
+| WoW Trial.adg => "Garrith Sumon" => "Flavor (20)" = "Ravenry Summon,Dead Dragon";
+
+};
+
+if WoW Trial => "Exit to Stormwind" > 72{;
+
+| TEMP-FUNC-TEXT-REPLACE |1234a| int 1234a;
+
+| BUYBACK Bolt of Mageweave.zip && Tag Extender (1) AiR110|1234a|;
+
+| 1234a += 1;
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP;
+
+CD Azeroth && CD Azeroth;
+
+CD Elswynn Forest && CD Stormwind && CD Dwarven District && CD Olivia's Pond && CD Stormwind Embassy && CD Go Inside;
+
+CD LOCAL:\Fredricc\Turp's Quest Builder Utility\Build-a-Quest\ && advanced-api-import Extra Quest.alp LOCAL:\Fredricc\Quest System\;
+
+Rename Local 1MIDI Audio Effect Rack 1,1 The Juno Game && CHAIN1 Third Edit;
+
+The Juno Game.adg = "No Disrupt,No Aggro,Given Coin";
+
+if The Juno Game.adg => "Output1" => "Macro 4" > 72 && "Output1" => "Macro 1" > 72{;
+
+| The Juno Game = "No Disrupt" && "No Aggro" && "Given Coin";
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP;
+
+CD Azeroth|orange| && CD Azeroth;
+
+CD Eastern Kingdoms && CD Elsywnn Forest && CD Stormwind;
+
+CD Trade District && CD Secret Shop && CD Go Upstairs && CD Go to the Forward && LOCATE_BED && /sleep;
+
+CD Table && zipy-import Roti Chapati LOCAL:\Fredricc\Bread Inventory\;
+
+Tag Bread (178) Roti Chapati;
+
+Local RENAME Roti Chapati Mana (Original);
+
+Global PLACE Mana (Original) Slow Fall;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Elsywnn Forest\Stormwind\Trade District\
+
+DROP Bread (178) Lantern - Copy - Copy (2).adg POST;
+
+DROP Bread (178) > "Air1" Lantern - Copy - Copy PRE;
+
+CD Secret Shop && CD \Go Upstairs\Go to the Forwards\;
+
+LOCATE_BED && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /sit && /sit && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away;
+
+Brown Leather Satchel (4) SLOT 1,2,3,4,5,6,7,8 Heavy Brown Bag && Brown Leather Satchel (4) Heavy Brown Bag;
+
+for 1 in 11{;
+
+| CD UP && CD UP && CD UP && CD Auctioneer's House;
+
+| Talk-Auctioneer Filtch && BUYOUT Silkweave Stachel #FREDBURGER 175GP 0SP 0CP && BUYOUT Netherweave Bag #LUCAS 2GP 80SP 0CP && CD UP && All-Retrieve-Mail-Mailbox;
+
+| if wheat bran = 1{;
+
+| | SOULBIND Silkweave Satchel;
+
+| | josh = 10;
+
+| };
+
+| if wheat bran = 2;
+
+| | Brown Leather Satchel (2) SLOT 1,2,3,4,5,6,7,8 Silkweave Satchel && SOULBIND Silkweave Satchel;
+
+| | josh = 100;
+
+| };
+
+| if wheat bran = 3{;
+
+| | Brown Leather Satchel (3) SLOT 1,2,3,4,5,6,7,8 Silkweave Satchel (2) && SOULBIND Silkweave Satchel;
+
+| | josh = 1000;
+
+| };
+
+| if wheat bran > 3{;
+
+| | CD Auctioneer's House && Talk-Auctioneer Filtch && SELL-TEMP-BUYOUT 175GP 0SP 0CP Silkweave Satchel BACKPACK && CD UP; 
+
+| | josh = 2500;
+
+| };
+
+| TEMP-TEXT-REPLACE |josh| var josh;
+
+| CD Bank of Stormwind && BUY-BANK-SLOT |josh|SP;
+
+| TEMP-TEXT-REPLACE |wheat bran| var wheat bran;
+
+| if wheat bran < 8{;
+
+| | Talk-Teller Catlyn && Netherweave Bag BAG SLOT |wheat bran|;
+
+| };
+
+| if wheat bran > 7{;
+
+| | CD UP && CD Auctioneer's House && Talk-Auctioneer Filtch && SELL-TEMP-BUYOUT Netherweave Bag 2GP 80SP 0CP && CD UP && CD Bank of Stormwind;
+
+| };
+
+| wheat bran += 1;
+
+| CD UP && CD Secret Shop && CD \Go Upstairs\Go to the Right\;
+
+| LOCATE_BED && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /sit && /sit && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away;
+
+};
+
+wheat bran = 1;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Azeroth|orange| && CD Azeroth;
+
+CD \Eastern Kingdoms\Elsywnn Forest\Stormwind\Dwarven District\Olivia's Pond\Stormwind Embassy\;
+
+CD Go Inside && CD UP && CD UP && DROP Mana (Original) > "Air2" Lantern - Copy - Copy.adg PRE;
+
+DROP Mana (Original) > "Air3" Lantern - Copy (2) - Copy PRE;
+
+CD UP && CD UP && CD UP && CD Lion's Pride Inn && && advanced-zipy-import Hero's Call Notice Board.zip LOCAL;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP && CD Azeroth|orange| && CD \Azeroth\Eastern Kingdoms\Elsywnn Forest\Lion's Pride Inn\;
+
+CD Hero's Call Notice Board && CD Quest Builder Utility && advanced-pack-import Minimal Kajiht Game LOCAL:\Fredricc\Cat Drops\;
+
+No Crime.adg = "Assist1,Assist2";
+
+if No Crime.adg => "MjhdAction" > 72{;
+
+| print("Play fantasy games.");
+
+};
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP;
+
+CD Azeroth|orange| && CD Azeroth && CD \Eastern Kingdoms\Elswynn Forest\Stormwind\ && CD Trade District && CD Side Shop;
+
+BUY-Thurnman Mulby Refreshing Spring Water.adg && Save Refreshing Spring Water LOCAL:\Fredricc\Water Sampler\Cup\;
+
+import Refreshing Spring Water LOCAL:\Fredricc\Water Sampler\ && Tag Refreshing Spring Water My Wat;
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP;
+
+CD Azeroth|orange| && CD Azeroth && CD Eastern Kingdoms && CD Elswynn Forest && CD Lion's Pride Inn && CD Entrance && CD Questing Room;
+
+CD Go Upstairs && CD Room Backwards && CD Bed Room && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Stormwind && CD Trade District && CD Bank Of Stormwind && DROP My Water Lantern.adg POST;
+
+DROP My Wat > "Air1" Lantern - Copy.adg PRE && DROP My Wat > "Air2" Lantern - Copy (2).adg PRE && CD UP && DROP My Wat > "Air3" Lantern - Copy (7).adg PRE;
+
+CD Side Shop && BUY-Thurnman Mulby Refreshing Spring Water && Save Refreshing Spring Water LOCAL:\Fredricc\Water Sampler\Mug\ && Tag Refreshing Spring Water Wat of Ages;
+
+BUY-Thurnman Mulby Moist Cornbread && Refreshing Spring Water && Save Moist Cornbread LOCAL:\Fredricc\Stuffing Mug\ && Save Refreshing Spring Water C:\Fredric|orange|\Stuffing Mug\;
+
+import Wat of Ages LOCAL:\Fredricc\Water Sampler\Cuppa\ && Tag Wat of Ages Mana Water && CD UP && CD UP && CD UP && CD Azeroth|orange| && CD Azeroth && CD Eastern Kingdoms;
+
+CD Elswynn Forest && CD Stormwind && CD Trade District && DROP Wat of Ages Lantern - Copy (5).adg POST && DROP Wat of Ages > "Air1" Lantern - Copy (6).adg PRE && CD Side Shop;
+
+CD Thurnman Mulby && Talk-To-Thurnman Mulby && CD UP && CD UP && DROP Wat of Ages > "Air2" Lantern - Copy (4).adg PRE && DROP Wat of Ages > "Air3" Lantern - Copy (3).adg PRE;
+
+CD Side Shop && CD UP && DROP Mana Water Lantern - Copy (2).adg POST && DROP Mana Water > "Air1" Lantern - Copy (1).adg PRE && DROP Mana Water > "Air2" Lantern - Copy (2) - Copy.adg PRE;
+
+CD Side Shop && CD UP && DROP Mana Water > "Air3" Lantern - Copy (3) - Copy.adg PRE;
+
+CD UP && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && LOCATE_BED && /sleep;
+
+WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away;
+
+CD UP && CD Dwarven District && CD Olivia's Pond && CD Stormwind Embassy && CD Weed Smoking && CD Smoking Hut;
+
+advanced-pack-import Woodbench (1).alp;
+
+Jack's PC.adg = "VivecOn";
+
+Jack's PC.adg = "1" && "1";
+
+EXIT TO LOCAL:\Users\Public\;
+
+CD UP && CD UP && CD \Azeroth\Eastern Kingdoms\Elsywnn Forest\Stormwind\Dwarven District\Olivia's Pond\Stormwind Embassy\Weed Smoking\Smoking Hut\;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD Trade District && CD Secret Shop && CD \Go Upstairs\Go to the Forwards\ && LOCATE_BED && /sleep && WAIT 15MIN && /away && /sit;
+
+WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && CD UP && CD UP && CD UP && CD Auctioneer's House && Buy-Auctioneer Filtch && BUYOUT Tough Jerky (5) #KYLE 1GP 0SP 0CP;
+
+CD UP && Take-Mail Mailbox && CD Secret Shop && EAT Tough Jerky && WAIT 1MIN && EAT Tough Jerky && WAIT 1MIN && EAT Tough Jerky && WAIT 1MIN && EAT Tough Jerky && WAIT 1MIN && EAT Tough Jerky;
+
+WAIT 1MIN && CD \Go Upstairs\Go to the Forwards\ && LOCATE_BED && /sit && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /sit && /away && WAIT 15MIN && /away && /sleep;
+
+CD UP && CD UP && CD UP && CD Old Town && CD Hall And More && CD Training Hall && CD Go Upstairs && CD Druid Corner && advanced-pack-import Mesmer && DROP Audio Effect Rack => "CHAIN2" => "Audio Effect Rack" MIDI2 POST;
+
+Audio Effect Rack => "CHAIN1" => "Audio Effect Rack" = "1,2" && Audio Effect Rack - Copy => "CHAIN1" => "Audio Effect Rack" = "1,2" && Audio Effect Rack - Copy - Copy => "CHAIN1" => "Audio Effect Rack" = "1,2";
+
+EXIT TO LOCAL:\Users\Public\ && CD UP && CD UP && CD Azeroth|orange|\Azeroth\Eastern Kingdoms\Elsywnn Forest\Stormwind\Old Town\Hall And More\Training Hall\Go Upstairs\Druid Corner\;
+
+CD UP && CD UP && CD UP && CD UP && CD Trade District && CD Secret Shop && CD Go Upstairs && CD Go to the Right && LOCATE_BED && /sleep && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away;
+
+CD UP && CD UP && CD UP && CD UP && LIGHT-COOKING-FIRE && DROP Refreshing Spring Water.adg Moist Cornbread POST && DROP Refreshing Spring Water > "Air1" AUDIO NEW && EAT Refreshing Spring Water > "Air3"; 
+
+CD Stormwind && CD Bank of Stormwind && Talk-To-Teller Katilyn && DEPOSIT Moist Cornbread (5) Netherweave Bag (1) && DROP Refreshing Spring Water > "Air2" Pixar Lamp.adg POST && CD UP && CD Secret Shop;
+
+CD \Go Upstairs\Go to the Forwards\ && LOCATE_BED && /sit && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+CD UP && CD UP && CD UP && CD Bank of Stormwind && Talk-Teller Katilyn && SHIFT-DROP-1 Moist Cornbread Netherweave Bag (2) && WITHDRAW 4 Moist Cornbread Netherweave Bag (1) && CD UP && CD Secret Shop && EAT Moist Cornbread;
+
+EAT Moist Cornbread && EAT Moist Cornbread && EAT Moist Cornbread && CD \Go Upstairs\Go to the Forwards\ && LOCATE_BED && CD Table && EXAMINE Roti Chapati && CD UP && CD UP && CD Go to the Right && LOCATE_BED && /sleep;
+
+WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15 MIN && CD UP && CD UP && CD UP && CD Bank of Stormwind && WAIT 15MIN && /away;
+
+Talk-Teller Katilyn && WITHDRAW Netherweave Bag (2) Moist Cornbread && CD UP && CD Secret Shop && CD \Go Upstairs\Go to the Forwards\ && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit && WAIT 4MIN;
+
+CD UP && CD UP && EAT Moist Cornbread && CD \Go Upstairs\Go to the Forwards\ && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit && WAIT 15MIN && CD UP;
+
+CD UP && WAIT 15MIN && CD \Go Upstairs\Go to the Forwards\ && LOCATE_BED && /sit && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away && /sleep;
+
+CD UP && CD UP && CD Side Shop && CD Dawn Radue && Talk-Dawn Radue && CD UP && CD UP && CD Mage Quarters && CD The Blue Recluse && CD Entrance && CD Go Inside && CD Gnome Table && Tag Candelabra Breadz && CD UP && CD UP && CD UP;
+
+CHECK-MAILBOX && SEND-TOKEN-MAIL-SELF "30cp TAX Wisdom is rooted in paitence, step easy! (24-9, 9-20, 19-15, 9-12, 16-1, 20-21, 5-1)" && TAKE-ALL-MAIL && CD UP && CD Dwarven District && CD Olivia's Pond && CD Stormwind Embassy;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD Lion's Pride Inn && CD Entrance && CD Questing Room && CD Back Room && SET-HEARTHSTONE Innkeeper Farley && CD UP && CD Go Upstairs && CD Room Backwards && CD Bed Room && LOCATE_BED;
+
+/sit && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /sit && WAIT 15MIN && CD UP && CD UP && CD Back Room && Buy-Innkeeper Farley Moist Cornbread (5) && CD UP && EAT Moist Cornbread && EAT Moist Cornbread && EAT Moist Cornbread;
+
+EAT Moist Cornbread && EAT Moist Cornbread && CD Go Upstairs && CD Room Backwards && CD Bed Room && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 5MIN;
+
+WAIT 10MIN && /away && /sit && WAIT 15MIN && /away && CD UP && CD UP && CD UP && CD UP && CD UP && CD Forge && Buy-Woolen-Clothes-Belt Andrew Crighton && CD UP && CD Entrance && CD Questing Room && CD Go Upstairs && CD Bed Room;
+
+EQUIP Woolen Set && Hashtag-Set Woolen Set -belt Wollen Set && EQUIP Wollen Set && EQUIP Woolen Belt && /dance && WAIT 1MIN && LOCATE_BED && /sleep && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+WAIT 14MIN && CD UP && CD UP && Examine Quest Table ''See If Maps Functional! - 20 Part Turners Lock'' && CD Go Upstairs && CD Bed Room && LOCATE_CHEST && Deposit 1CP Games Chest ''Breadz'' && LOOT-CHEST-TOY Enchanted Featherwhistle;
+
+Save Enchanted Featherwhistle LOCAL:\Fredricc\ && DEPOSIT-CHEST Enchanted Featherwhistle && Rectify-Item \Trade District\ Lantern - Copy (7).adg Enchanted Featherwhistle.adv && Enchanted Featherwhistle.adv => "VivecOn" = 0;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Elsywnn Forest\ && Conjure-Mana-Cookie && LOGOUT && WAIT 10MIN && LOGIN && LOGOUT && WAIT 10MIN && LOGIN && CD Stormwind && CD Side Shop && CD Dawn Radue && Talk-Dawn Radue && CD UP;
+
+CD Thurnman Mulby && Buy-Thurnman Mulby Refreshing Spring Water && SELL Refreshing Spring Water && BUY Refreshing Spring Water && Save Refreshing Spring Water LOCAL:\Fredricc\Live Mug\ && Tag Refreshing Spring Water Live Water;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Elsywnn Forest\Stormwind\Trade District\ && CD Side Shop && CD Thurnman Mulby && Talk-Thurnman Mulby && CD UP && CD UP && CD Secret Shop && CD \Go Upstairs\Go to the Forwards\;
+
+LOCATE_BED && /sit && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit && CD UP && CD UP && CD UP && CD Bank of Stormwind && Deposit-Teller Alisa Refreshing Spring Water (5) Netherweave Bag (1);
+
+CD UP && CD Secret Shop && CD Go Upstairs && CD Go to the Right && LOCATE_BED && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+CD UP && CD UP && CD The Canals && CD Across the Canals && CD UP && CD The Blue Recluse && CD Entrance && CD Go Inside && CD Gnome Table && Replace Candelabra Live Water && RENAME Live Water Candelabra of the Gnome Table;
+
+CD UP && CD UP && CD UP && CD Stormwind Staffs && CD UP && CD The Canals && CD Across the Canals && CD UP && CD Side Shop && CD Thurnman Mulby && Talk-Thurnman Mulby && CD UP && CD Dawn Radue && TALK-Dawn Radue && CD UP && CD UP;
+
+CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && LOCATE_BED && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away;
+
+WAIT 15MIN && /away && CD UP && CD UP && CD UP && CD UP && CD Lion's Pride Inn && CD Entrance && CD Go Inside && CD Questing Room && CD Go Upstairs && CD Room Backwards && CD Bed Room && LOCATE_BED && /sit && WAIT 15MIN && /away;
+
+CD LOCAL:\Map of Azeroth\Azeroth\Eastern Kingdoms\Elsywnn Forest\Stormwind\Trade District\Weller's Arsenal\ && CD Go Upstairs && MIDIKEY3 Crate (1).adv LOW && MIDI 3 C4A3E4C3A4E1F2A3C1C2E1G0D2F#1A0F1A2C3C4E5G1F2C3A4C5C4C3C2;
+
+CD UP && CD UP && CD UP && CD Dwarven District && CD The Golden Keg && CD Go Upstairs && Talk-Farseer Daraven ''Umbreon EGG Effect Spore'' && CD UP && Send-Token-Mail-Self ''30cp TAX Fast action is important to skillful work.'';
+
+Send-Token-Mail-Self ''30cp TAX Your Fortune Was Lost Before - Here is A New One! 6-1,1-3,8-20,8-13,19-14,20-11,24-14.'' && CD UP && CD Trade District && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && LOCATE_BED;
+
+/sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /sit && WAIT 15MIN && /away && WAIT 5MIN;
+
+WAIT 10MIN && /away && CD UP && CD UP && CD UP && CD Auctioneer's House && Talk-Auctioneer Filtch && search-Mageweave Bag && BUYOUT Mageweave Bag 40GP 0CP 0SP && CD UP && Send-Mail-Harry Mageweave Bag ''30cp TAX Magic Bag Mayne.'';
+
+OPEN-CHAT Bag Discussion && CHANNEL General && PRINT SCREEN && CHANNEL Fredricc's Satchel Class && PRINT SCREEN && CHANNEL Advanced Satchel Theory && PRINT SCREEN && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards;
+
+MINIMIZE-CHAT && LOCATE_BED && /whisper Shawneo39 wassap homie && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /sleep && WAIT 5MIN;
+
+WAIT 10MIN && /away && WAIT 15MIN && /sit && WAIT 15MIN && /away && CD UP && Hearthstone && CD UP && CD Go Upstairs && CD Room Backwards && CD Bed Room && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+CD UP && CD UP && CD UP && CD Back Room && Buy-Innkeep Farley Tough Hunk Of Bread (5) && CD UP && CD UP && CD UP && CD Stormwind && CD Trade District && CD The Canals && CD Across the Canals && CD UP && CD The Blue Recluse;
+
+CD Entrance && CD Go Inside && CD Gnome Table && Tag Candelabra of the Gnome Table Candelabra (5) && CD UP && CD Gnome Table && Wooden chain (3) = "1" + "1" && CD UP && CD UP && CD UP && CD The Canals && CD Across the Canals;
+
+CD UP && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 5MIN && && CD UP && CD UP && CD UP && CD Auctioneer's House && Talk-Auctioneer Filtch;
+
+Buy-Carbo Cola 100GP 0SP 0CP && CD UP && CD Bank of Stormwind && Talk-Teller Katlyn && STORE Carbo Cola Netherweave Bag (5) && STORE Tough Hunk Of Bread (5) Slot 4 && CD UP && CD UP && CD UP && CD Lion's Pride Inn && CD Forge;
+
+CD UP && LOGOUT && EXIT GAME && WoW Shadowlands2 && LOGIN && CHAT-CHANNEL Bagcrafter && PERK_SYSTEM && PRINT SCREEN && LOGOUT && WAIT 1MIN && EXIT GAME && WoW Shadowlands1 && LOGIN && CD Entrance && CD Go Inside && CD Questing Room;
+
+CD Go Upstairs && CD Room Forwards && Talk-Bill Ayers ''PD-NOS TREATMENT'' && CD UP && CD Room Backwards && CD Bed Room && LOCATE_BED && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away && /sit;
+
+CD UP && CD UP && CD Back Room && Sell-Innkeep Farley Tough Hunk of Bread (5) (1cp) && Buy-Inkeep Farley Refreshing Spring Water (5) && Tag Refreshing Spring Water (1) Copper Piece && CD UP && CD Go Upstairs && CD Room Backwards;
+
+CD Bed Room && Deposit-Whistle-Chest Copper Piece > "Air1" && GUILD_CHEST_ && Withdraw-Guild-Chest Alliance Tabard && LIMITED_LOCATE-TRADE-SELL Tough Jerky (5) Shawneo39||Innkeep Farley && EQUIP Alliance Tabard && LOCATE_BED;
+
+/sleep && WAIT 15MIN && /sit && CONJURE MANA COOKIE && AUTO-TRADE Mana Cookie (10) Shawneo39||Jarlan && /sleep && WAIT 15MIN && /away && /sit && UNEQUIP Alliance Tabard && Store-Alliance Tabard Netherweave Bag && /sleep;
+
+/play chat channel Bagcrafter voice chat 3 Hours of Octave (OC) && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && SIDE B && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 5MIN;
+
+WAIT 10MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && SIDE C && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /whisper Shawneo39 Rave Hard Music? && /sit && MINIMIZE-CHAT;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Azeroth|orange| && CD Eastern Kingdoms && CD Elsywnn Forest && CD Stormwind && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && LOCATE_BED;
+
+/sit && WAIT 15MIN && /away && /whisper Shawneo39 nm fam && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /play chat channel Bag Discussion Another Revolution && WAIT 3MIN && Absolve && WAIT 2MIN && MINIMIZE-EXIT-VOICE-CHAT && /sit;
+
+internal-api-import Science Coin Plus C:\ && Science Coin Plus = 5 && /play chat channel Bagcrafter Science Coin Plus => CHAIN420 => "Sentient Bot Liamz" -comp && /whisper Bot Liam Info about Bags ?? Give Fred-Like Answer && WAIT 1MIN;
+
+CD LOCAL:\Map of Azeroth\Eastern Kingdoms\ && CD Elsywnn Forest && CD Stormwind && CD Gryphon Roost && CD Gryphon to Ironforge, The Great Forge && CD The Commons && CD The Stonefire Tavern && Talk-Innkeeper Firebrew && EXIT-TALK MENU;
+
+CD Side Drinkk Table && Stonefire Chair (4) = 1 && OPEN-CHAT Bagcrafter Perks && WAIT 15MIN && /away && OPEN-CHAT Bagcrafter Info > Compare "We are crafting small pouch today." Message of the Day && /whisper Shawneo39 |NewCompareBool|;
+
+Stonefire Chair (4) = 1 && CD UP && CD UP && CD Pella's Barbershop && Dwarven High Back Chair (1) = 1 && 1 && WAIT 15MIN && /away && CD UP && CD Zee Mystic Ward && CD Sarah Karmoody's House && CD Downstairs && CD UP && WAIT 5MIN;
+
+CD UP && CD Johnson and Johnson && CD Go Upstairs && CD Table && Tag Sliced Bread Jake's Bread && CD UP && CD UP && CD UP && CD Sarah Karmoody's House && CD Downstairs && CD Smuggling Compartment && DROP Jake's Bread Fine Wine.adg POST;
+
+CD UP && CD UP && CD UP && CD Johnson and Johnson && CD Side Smuggling Compartment && DROP Jake's Bread > "Air1" Fine Wine.adg PRE && CD UP && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+CD UP && CD The Commons && CD Pella's House && CD Go Upstairs && CD Rack of Blunderbuss && DROP Jake's Bread > "Air3" Redcurrant 1.adg POST && CD UP && CD UP && CD UP && CD The Great Forge (1) && CD Gryphon to Stormwind, Gryphon's Roost;
+
+CD UP && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && LOCATE_BED && EAT Refreshing Spring Water (2) && (3) && (4) && CD UP && Wooden Chair (5) = 1 && 1 && CD Go to the Forwards && LOCATE_BED && /sit && WAIT 5MIN;
+
+WAIT 10MIN && /away && CD UP && CD UP && CD Lionheart Armory && DROP Jake's Bread > "Air2" Lantern.adg POST && CD UP && CD Secret Shop && CD Go Upstairs && CD Go to the Right && LOCATE_BED && /sleep && WAIT 15MIN && /away && CD UP;
+
+Wooden Chair (5) = 1 && 1 && CD Go to the Forwards && CD UP && CD UP && CD UP && CD UP && CD Lion's Pride Inn && CD Entrance && CD Go Inside && CD Questing Room && CD Back Room && Talk-Innkeep Farley "space balls original dub";
+
+CD UP && CD Go Upstairs && CD Room Backwards && CD Bed Room && Tag Refreshing Spring Water (5) Copper Piece && ADD ITEM-''Alisa Chest Stacked'' +> Copper Piece && CHAR-GET-Bingy Featherwhistle && HOTSWAP Bingy Featherwhistle Lantern;
+
+Talk-Lantern "One" && "One" && /say |IfBingyOneOutBool| && /enchant Lantern.adg && Bingy Featherwhistle => "VivecOn" = 1 && CD LOCAL:\Map of Azeroth\AzerothEastern Kingdoms\ && CD Elswynn Forest && CD Stormwind && CD Dwarven District;
+
+Talk-Bingy Featherwhistle ''Hey nice meeting you here m808'' && HOTSWAP Dad Cubed Medical Flagon && RENAME Medical Flagon Featherwhistle Fam (Fishing) && Talk-Red Mechanostrider "10010100101000101001010000001010010100010100010100";
+
+CD UP && CD Old Town && CD Pig and Whistle Tavern && /play Daphne Funkybeats Joel Is Neat Bag Discussion voice chat && WAIT 15MIN && /away && WAIT 15MIN && /away && /wait 15MIN && /away && /sit && WAIT 15MIN && /dance && WAIT 5MIN;
+
+WAIT 10MIN && /away && CD UP && CD UP && CD Trade District && CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && CD Table && CD UP && LOCATE_BED && /sleep && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && WAIT 5MIN;
+
+CD UP && CD UP && CD Trade District && CD Side Shop && CD Thurnman Mulby && BUY Refreshing Spring Water LOCAL:\Fredricc\Spring Water Pepsi Product\ && Tag Spring Water Pepsi Product Wats && CD UP && CD UP && CD Azeroth|orange|;
+
+CD Eastern Kingdoms && CD Elsywnn Forest && CD Stormwind && CD Trade District && CD Trias' Cheese && Buy-Ben Trias Carbo Cola 2GP 56SP && CD UP && CD Bank Of Stormwind && Talk-Teller Katlyn && Deposit-Netherweave Bag (6) Carbo Cola;
+
+CD UP && CD Secret Shop && CD \Go Upstairs\Go to the Right\ && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+CD UP && CD UP && CD UP && CD Bank Of Stormwind && CD UP && CD Side Shop && CD Dawn Radue && Talk-Dawn Radue "Pouch Under Specification?" && CD UP && CD UP && CD Side Shop && CD Thurnman Mulby && Buy Tough Hunk Of Bread (5);
+
+CD UP && CD UP && CD Auctioneer's House && Talk-Auctioneer Filtch && BUYOUT Small Green Pouch 6GP 0SP 0CP && LEAVE-SPEECHCRAFT && CD UP && CD Bank of Stormwind && Talk-Teller Katlyn && Deposit-Netherweave Bag (1) Small Green Pouch;
+
+LEAVE-Speech && CD UP && CD UP && CD Lion's Pride Inn && CD Forge && CD Geobind && local-item-get Netherweave Bag VIA Gear of 64 (MAP DISPLAY ITEM ONE MACROSS ONE 64=0 AND ITEM SEVEN MACROSS ONE 64=0) && CD UP && CD UP && WAIT 1MIN;
+
+/play Bagcrafter voice chat DJ Planet Express - Fantasy Forever 1:14:00 && WAIT 14MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && B SIDE && WAIT 15MIN && /away && WAIT 15MIN && /away && /away && /away && /away;
+
+/away && CD Entrance && CD Go Inside && CD Questing Room && CD Go Upstairs && RIDDIKULUS MINIMUSUS "goto snittledickies" && CD UP && CD Back Room && Hearthstone && CD UP && CD Go Upstairs && CD Room Backwards && CD Bed Room;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Dun Morogh && CD Kharanos && CD Coldridge Pass && CD Coldridge Valley && CD Anvilmar && CD Go Right && CD Interior && CD Lo's Drinkks && CD Pipe Store;
+
+CD UP && CD Downstairs && CD True Interior && CD Bar && Bar Chair (1) = 1 && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+Bar Chair (1) = 1 && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Elsywnn Forest && CD Stormwind && CD Gryphon Roost && CD Gryphon to Ironforge,The Great Forge && CD Ironforge Physician;
+
+CD Go Upstairs && CD UP && CD UP && CD The Commons && CD The Stonefire Tavern && Talk-Innkeeper Firebrew && BUY-Carbo Cola 2GP 56SP 0CP && CD Go Upstairs && /sit && EAT Carbo Cola (3) && CD UP && CD UP && CD Vault of Ironforge;
+
+Talk-Bailey Stonemantle (1) && DEPOSIT Carbo Cola (1) + (2) + (4) + (5) Netherweave Bag (8) && SHIFT-DEPOSIT Tough Hunk Of Bread (5) Bank Slot 6,7,8,9,10 && LEAVE-SPEECH && CD UP && CD Fizzlespinner General Goods && CD Go Downstairs;
+
+Talk-Pickwith "8 Item by Same at Nine Satchel, 1 AT TIME Satchel Space?" && CD UP && CD UP && CD Ironforge Visitor's Center && Go Downstairs && Talk-Jondor Steelbrow "Been (business) quiet lately?" && CD UP && CD UP && CD Peela's House;
+
+LOCATE_BED && /sit && WAIT 15MIN && /away && WAIT 15MIN && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+CD UP && CD Pella's Barbershop && Examine 4 Part Front And Back Poster "Appears to hold the secret to four appearances in double." && CD UP && CD The Stonefire Tavern && Talk Innkeeper Firebrew && Buy-Carbo Cola 2GP 56SP 0CP;
+
+DRINK Carbo Cola (1) && DRINK Carbo Cola (2) && DRINK Carbo Cola (3) && DRINK Carbo Cola (4) && DRINK Carbo Cola (5) && CD Go Upstairs && CD UP && CD UP && CD The Great Forge (2) && CD Gryphon to Stormwind,Gryphon Roost && CD UP;
+
+CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && LOCATE_BED && /sleep && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /sit && WAIT 5MIN;
+
+WAIT 10MIN && /away && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit;
+
+CD UP && CD UP && CD UP && CD Bank Of Stormwind && Withdraw Netherweave Bag (6) Carbo Cola && CD UP && CD Auctioneer's House && Talk-Auctioneer Filtch && SELL-Carbo Cola (1) 2GP 57SP 0CP && CD UP && CD Secret Shop && /dance;
+
+WAIT 1MIN && CD Go Upstairs && CD Go to the Right && LOCATE_BED && /sleep && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && /sleep && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && WAIT 15MIN && /sleep && /away;
+
+/play Bagcrafter Advanced Satchel Theory Chopin Etude 23 voice chat && WAIT 4MIN && /play Bagcrafter Advanced Satchel Theory Chopin Opus 25 voice chat && WAIT 4MIN && CD UP && CD UP && CD UP && CD Bank of Stormwind;
+
+/dismisspet GHOSTOJACK && COLLECTIONS && PETS && PRINT SCREEN && Talk-Teller Katlyn && WITHDRAW Netherweave Bag (1) Small Green Pouch && BANK SLOT 11 Small Green Pouch && CD UP && CD Secret Shop && CD \Go Upstairs\Go to the Right\;
+
+GROUP-DUPE-1 WaterSounds && RENAME WaterSounds WaterSounds2 && DROP B3ByJacobsCo WaterSounds2 CHAIN2 && DROP Utility 24dB CHAIN2 && WaterSounds2.adg = 72 && Chain Volume Audio Effect Rack CHAIN1 = -inf dB && WAIT 15MIN && /away;
+
+DROP DELAY POST && GROUP DELAY && LINK CHANNEL && 5000ms L && ENVELOPE FOLLOWER POST && DUPE-90 DELAY && Audio Effect Rack NEW CHAIN CHAIN2 && ENVELOPE FOLLOWER MAP @ 85-0 CHAIN2 && Audio Effect Rack CHAIN1 -inf dB && SamplerOG POST;
+
+COPY-ALL-LOCAL-DELAY && PASTE SamplerOG && Compressor DELAY0 PRE && Envelope Follower 0-100 Compressor Dry/Wet && ROUTE COMPRESSOR SamplerOG && DROP Compressor2 SamplerOG POST && Envelope Follower 0-100 Compressor2 Dry/Wet;
+
+DROP JSON WEATHER231 Envelope Follower PRE && MAP Envelope Follower JSON WEATHER 231 PRE && AUDIO EFFECT RACK3 JSON WEATHER POST && GROUP AUDIO EFFECT RACK3 && MACRO 1 Audio Effect Rack Chain Volume 0 - -inf Audio Effect Rack;
+
+Envelope Follower Macro 1 Audio Effect Rack && AUDIO EFFECT RACK Compressor2 POST && RENAME LOCAL SamplerOG PRE && GROUP-3 SamplerOG PRE && REVERB POST && SPECTRAL BLUR POST && GROUP-5 REVERB && GROUP-4 SPECTRAL BLUR;
+
+/play Bagcrafter Advanced Satchel Theory voice chat Audio Effect Rack3.adg => CHAIN1 = PRE FX && WAIT 5MIN && WAIT 5MIN && /play Bagcrafter Advanced Satchel Theory voice chat Audio Effect Rack5.adg => CHAIN1 = POST FX;
+
+/sleep && WAIT 5MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit;
+
+/sleep && WAIT 29MIN && /away && WAIT 29MIN && /away && WAIT 29MIN && /away && WAIT 29MIN && /away && WAIT 29MIN && /away && WAIT 29MIN && /away && WAIT 29MIN && /away && WAIT 29MIN && /away && WAIT 29MIN && /away && /sit;
+
+CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD UP && CD Azeroth && CD Eastern Kingdoms && CD Elsywnn Forest && CD Stormwind && CD Trade District && CD Secret Shop && CD Go Upstairs && WAIT 5MIN;
+
+CD Go to the Forwards && CD Table && /whisper Shawneo39 "Weasely Wizarding Wheezes! - This was an automated message." && CD UP && LOCATE_BED && /sit && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+CD UP && CD UP && CD UP && CD UP && CD Dwarven District && Talk-Danielse Lindbar "Kennith McKennithson Revival Negative?" && EAT LINDTT BAR && CD Olivia's Pond && CD Clem's House && CD UP && CD Stormwind Embassy;
+
+CD Jayden && BUY-Cousin Slowhands Golden Carp Connsume LOCAL:\Fredricc\MSG FOOD\ && CD LOCAL:\Map of Azeroth\Eastern Kingdoms\ && CD Elsywnn Forest && CD Stormwind && CD Dwarven District && CD Olivia's Pond;
+
+CD Stormwind Embassy && CD Jayden && LOCAL:\Fredricc\MSG FOOD\ && EAT Golden Carp Connsume (1) (2) (3) (4) (5) && CD UP && CD UP && CD Azeroth|orange| && CD Eastern Kingdoms && CD Elsywnn Forest && CD Stormwind && CD Trade District;
+
+CD Secret Shop && CD Go Upstairs && CD Go to the Forwards && CD Table && Tag Roti Chapati Airenessair LOCAL:\Fredricc\Roti Chapati\ && COPY-FROM Airenessair Expander (100) LOCAL:\Fredricc\Roti Chapati\ && Tag Expander (100) Bread Offer;
+
+CD UP && CD UP && CD LOCAL:\Map of Azeroth\Eastern Kingdoms\ && CD Elsywnn Forest && CD Stormwind && CD Old Town && CD Pig and Whistle Tavern && CD Entrance && CD Go Inside && Talk-Daphne Funkybeats "Network Boyer-Moore Over VOIP?";
+
+DROP Bread Offer > "Air1" Fine Wine POST && CD UP && CD UP && CD UP && CD UP && CD UP && CD Lion's Pride Inn && CD Entrance && CD Questing Room && CD Go Upstairs && CD Room Backwards && CD Bed Room && WAIT 15MIN && /away;
+
+DEPOSIT-Alisa's Chest Bread Offer > "Air3" && TAKE-Featherwhistle (Lanturn) && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away;
+
+/sit && WAIT 15MIN && /away && DEPOSIT-Alisa's Chest Bread Offer > "Air2" && CD UP && CD Lord of the Flies Brand Table && DROP Bread Offer Fine Wine.adg POST && CD UP && CD UP && CD UP && CD UP && CD UP && WAIT 15MIN && /away;
+
+CD Entrance && CD Questing Room && CD Back Room && CD William III Cookoff (Spicy) && TRAIN-With Tomas Shadowrend "ELK LE MEAT" Cooking (40) && CD UP && CD UP && CD UP && CD UP && HOTBAR Cooking Fire 2 - 1 && Light-Cooking Fire;
+
+Poach-Wolf (3) && WAIT 3MIN && Poach-Wolf (3) && Loot-Stringy Wolf Meat && Cook Stringy Wolf Meat Charred Wolf Meat (1) && CD Entrance && CD Questing Room && CD Back Room && Trade-All Innkeeper Farley Stringy Wolf Meat && CD UP;
+
+CD Go Upstairs && CD Room Backwards && EAT Charred Wolf Meat (Orange Chicken) && CD Bed Room && LOCATE_BED && /sleep && WAIT 5MIN && /away && WAIT 5MIN && /away && WAIT 5MIN && /away && WAIT 10MIN && /sit && /away && WAIT 15MIN;
+
+CD UP && CD UP && CD UP && CD Back Room && BUY-Inkeeper Farley Simple Flour (5) && Buy Inkeeper Farley Mild Spices (5) && CD UP && CD UP && Light-Cooking Fire && Cook Spice Bread (5) && EAT Spice Bread (1) && CD Entrance && CD UP;
+
+CD Entrance && CD UP && zipy-import Hero's Call Notice Board LOCAL:\Fredricc\Utilities\ && CD Hero's Call Notice Board && CD Quest Builder Utility && WAIT 15MIN && /away && WAIT 15MIN && /away && advanced-pack-import Keybind2.alp;
+
+RECORD TRACK 4 && KeybindA.adg = 1 && WAIT 15SEC && KeybindA.adg = 1,2 && WAIT 15SEC && KeybindA = 2,3 && WAIT 15SEC && KeybindA = 3,4 && DROP RECORD 3 4 AUDIO && KB.pl.out1 "Getting your freshly baked bread." && WAIT 15MIN && /away;
+
+EXIT TO LOCAL:\Users\Public\ && CD UP && CD UP && CD Azeroth|orange| && CD Azeroth && CD Eastern Kingdoms && CD Loch Modan && CD Thelsamar && CD Stoutlager Inn && CD Entrance && CD Main Room && CD Chopped Table && Tag Candelabra SparkMan;
+
+CD UP && CD UP && CD UP && CD UP & CD UP && CD UP && CD Elsywnn Forest && CD Lion's Pride Inn && WAIT 15MIN && /away && /sit && WAIT 15MIN && /away && /dance && WAIT 2MIN && /sit && /away && WAIT 1MIN && /away && WAIT 15MIN && /away;
+
+DROP SparkMan > "Air1" Lanturn.adg -Inventory POST && DROP-INVENTORY Lanturn LOCAL:\Fredricc\Pokeball\Ultra Ball\ && Lanturn.adg = 1 && WAIT 1SEC && Lanturn.adg = 1,2 && WAIT 1SEC && Lanturn.adg = 2,3 && WAIT 1SEC && Lanturn.adg = 3;
+
+CD UP && CD UP && CD UP && CD Azeroth|orange| && CD Azeroth && CD Elsywnn Forest && CD Stormwind && CD Trade District && DROP SparkMan > "Air3" Enchanted Featherwhistle PRE && CD UP && CD UP && CD Lion's Pride Inn && CD Entrance;
+
+CD Questing Room && CD Go Upstairs && CD Room Backwards && CD Bed Room && Deposit-Senator Alisa Steinbakner Chest SparkMan > "Air2" && Withdraw Pokemon Trainer License Featherwhistle Chest && CD LOCAL:\Fredricc\Pokeball\Ultra Ball\;
+
+Lanturn.adg = 7 && WAIT 5SEC && Lanturn.adg = 7 && WAIT 1MIN && CD UP && CD UP && CD UP && CD Azeroth|orange| && CD Azeroth && CD Eastern Kingdoms && CD Stormwind && CD Trade District && CD Secret Shop && CD Go Upstairs && WAIT 1MIN;
+
+Wooden Chair (5) = 1 && WAIT 1SEC && Wooden Chair (5) = 1 && CD Go to the Right && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 15MIN && /away && WAIT 1MIN;
+
+CD UP && CD UP && CD UP && CD UP && CD Lion's Pride Inn && CD Entrance && CD Questing Room && CD Go Upstairs && CD Room Backwards && CD Bed Room && LOCATE_BED && /sleep && WAIT 15MIN && /away && WAIT 15MIN && /away && /sit;
